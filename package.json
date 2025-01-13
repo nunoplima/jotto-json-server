@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.js",
+    "normalize": "node normalize-words.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
