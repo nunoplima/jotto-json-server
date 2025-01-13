@@ -2,3147 +2,3933 @@
   "words": [
     {
       "id": 1,
-      "word": "sagaz"
+      "word": "sagaz",
+      "normalizedWord": "sagaz"
     },
     {
       "id": 2,
-      "word": "âmago"
+      "word": "âmago",
+      "normalizedWord": "amago"
     },
     {
       "id": 3,
-      "word": "negro"
+      "word": "negro",
+      "normalizedWord": "negro"
     },
     {
       "id": 4,
-      "word": "termo"
+      "word": "termo",
+      "normalizedWord": "termo"
     },
     {
       "id": 5,
-      "word": "êxito"
+      "word": "êxito",
+      "normalizedWord": "exito"
     },
     {
       "id": 6,
-      "word": "mexer"
+      "word": "mexer",
+      "normalizedWord": "mexer"
     },
     {
       "id": 7,
-      "word": "nobre"
+      "word": "nobre",
+      "normalizedWord": "nobre"
     },
     {
       "id": 8,
-      "word": "senso"
+      "word": "senso",
+      "normalizedWord": "senso"
     },
     {
       "id": 9,
-      "word": "afeto"
+      "word": "afeto",
+      "normalizedWord": "afeto"
     },
     {
       "id": 10,
-      "word": "ética"
+      "word": "ética",
+      "normalizedWord": "etica"
     },
     {
       "id": 11,
-      "word": "algoz"
+      "word": "algoz",
+      "normalizedWord": "algoz"
     },
     {
       "id": 12,
-      "word": "plena"
+      "word": "plena",
+      "normalizedWord": "plena"
     },
     {
       "id": 13,
-      "word": "fazer"
+      "word": "fazer",
+      "normalizedWord": "fazer"
     },
     {
       "id": 14,
-      "word": "assim"
+      "word": "assim",
+      "normalizedWord": "assim"
     },
     {
       "id": 15,
-      "word": "tênue"
+      "word": "tênue",
+      "normalizedWord": "tenue"
     },
     {
       "id": 16,
-      "word": "mútua"
+      "word": "mútua",
+      "normalizedWord": "mutua"
     },
     {
       "id": 17,
-      "word": "sobre"
+      "word": "sobre",
+      "normalizedWord": "sobre"
     },
     {
       "id": 18,
-      "word": "vigor"
+      "word": "vigor",
+      "normalizedWord": "vigor"
     },
     {
       "id": 19,
-      "word": "aquém"
+      "word": "aquém",
+      "normalizedWord": "aquem"
     },
     {
       "id": 20,
-      "word": "seção"
+      "word": "seção",
+      "normalizedWord": "secao"
     },
     {
       "id": 21,
-      "word": "sutil"
+      "word": "sutil",
+      "normalizedWord": "sutil"
     },
     {
       "id": 22,
-      "word": "poder"
+      "word": "poder",
+      "normalizedWord": "poder"
     },
     {
       "id": 23,
-      "word": "porém"
+      "word": "porém",
+      "normalizedWord": "porem"
     },
     {
       "id": 24,
-      "word": "fosse"
+      "word": "fosse",
+      "normalizedWord": "fosse"
     },
     {
       "id": 25,
-      "word": "sanar"
+      "word": "sanar",
+      "normalizedWord": "sanar"
     },
     {
       "id": 26,
-      "word": "ideia"
+      "word": "ideia",
+      "normalizedWord": "ideia"
     },
     {
       "id": 27,
-      "word": "cerne"
+      "word": "cerne",
+      "normalizedWord": "cerne"
     },
     {
       "id": 28,
-      "word": "audaz"
+      "word": "audaz",
+      "normalizedWord": "audaz"
     },
     {
       "id": 29,
-      "word": "moral"
+      "word": "moral",
+      "normalizedWord": "moral"
     },
     {
       "id": 30,
-      "word": "inato"
+      "word": "inato",
+      "normalizedWord": "inato"
     },
     {
       "id": 31,
-      "word": "desde"
+      "word": "desde",
+      "normalizedWord": "desde"
     },
     {
       "id": 32,
-      "word": "muito"
+      "word": "muito",
+      "normalizedWord": "muito"
     },
     {
       "id": 33,
-      "word": "quiçá"
+      "word": "quiçá",
+      "normalizedWord": "quica"
     },
     {
       "id": 34,
-      "word": "justo"
+      "word": "justo",
+      "normalizedWord": "justo"
     },
     {
       "id": 35,
-      "word": "honra"
+      "word": "honra",
+      "normalizedWord": "honra"
     },
     {
       "id": 36,
-      "word": "sonho"
+      "word": "sonho",
+      "normalizedWord": "sonho"
     },
     {
       "id": 37,
-      "word": "torpe"
+      "word": "torpe",
+      "normalizedWord": "torpe"
     },
     {
       "id": 38,
-      "word": "razão"
+      "word": "razão",
+      "normalizedWord": "razao"
     },
     {
       "id": 39,
-      "word": "amigo"
+      "word": "amigo",
+      "normalizedWord": "amigo"
     },
     {
       "id": 40,
-      "word": "ícone"
+      "word": "ícone",
+      "normalizedWord": "icone"
     },
     {
       "id": 41,
-      "word": "etnia"
+      "word": "etnia",
+      "normalizedWord": "etnia"
     },
     {
       "id": 42,
-      "word": "fútil"
+      "word": "fútil",
+      "normalizedWord": "futil"
     },
     {
       "id": 43,
-      "word": "égide"
+      "word": "égide",
+      "normalizedWord": "egide"
     },
     {
       "id": 44,
-      "word": "anexo"
+      "word": "anexo",
+      "normalizedWord": "anexo"
     },
     {
       "id": 45,
-      "word": "tange"
+      "word": "tange",
+      "normalizedWord": "tange"
     },
     {
       "id": 46,
-      "word": "dengo"
+      "word": "dengo",
+      "normalizedWord": "dengo"
     },
     {
       "id": 47,
-      "word": "haver"
+      "word": "haver",
+      "normalizedWord": "haver"
     },
     {
       "id": 48,
-      "word": "lapso"
+      "word": "lapso",
+      "normalizedWord": "lapso"
     },
     {
       "id": 49,
-      "word": "expor"
+      "word": "expor",
+      "normalizedWord": "expor"
     },
     {
       "id": 50,
-      "word": "então"
+      "word": "então",
+      "normalizedWord": "entao"
     },
     {
       "id": 51,
-      "word": "tempo"
+      "word": "tempo",
+      "normalizedWord": "tempo"
     },
     {
       "id": 52,
-      "word": "boçal"
+      "word": "boçal",
+      "normalizedWord": "bocal"
     },
     {
       "id": 53,
-      "word": "seara"
+      "word": "seara",
+      "normalizedWord": "seara"
     },
     {
       "id": 54,
-      "word": "mútuo"
+      "word": "mútuo",
+      "normalizedWord": "mutuo"
     },
     {
       "id": 55,
-      "word": "hábil"
+      "word": "hábil",
+      "normalizedWord": "habil"
     },
     {
       "id": 56,
-      "word": "casal"
+      "word": "casal",
+      "normalizedWord": "casal"
     },
     {
       "id": 57,
-      "word": "saber"
+      "word": "saber",
+      "normalizedWord": "saber"
     },
     {
       "id": 58,
-      "word": "ávido"
+      "word": "ávido",
+      "normalizedWord": "avido"
     },
     {
       "id": 59,
-      "word": "ardil"
+      "word": "ardil",
+      "normalizedWord": "ardil"
     },
     {
       "id": 60,
-      "word": "graça"
+      "word": "graça",
+      "normalizedWord": "graca"
     },
     {
       "id": 61,
-      "word": "pesar"
+      "word": "pesar",
+      "normalizedWord": "pesar"
     },
     {
       "id": 62,
-      "word": "dizer"
+      "word": "dizer",
+      "normalizedWord": "dizer"
     },
     {
       "id": 63,
-      "word": "óbice"
+      "word": "óbice",
+      "normalizedWord": "obice"
     },
     {
       "id": 64,
-      "word": "xibiu"
+      "word": "xibiu",
+      "normalizedWord": "xibiu"
     },
     {
       "id": 65,
-      "word": "causa"
+      "word": "causa",
+      "normalizedWord": "causa"
     },
     {
       "id": 66,
-      "word": "dever"
+      "word": "dever",
+      "normalizedWord": "dever"
     },
     {
       "id": 67,
-      "word": "estar"
+      "word": "estar",
+      "normalizedWord": "estar"
     },
     {
       "id": 68,
-      "word": "sendo"
+      "word": "sendo",
+      "normalizedWord": "sendo"
     },
     {
       "id": 69,
-      "word": "tenaz"
+      "word": "tenaz",
+      "normalizedWord": "tenaz"
     },
     {
       "id": 70,
-      "word": "brado"
+      "word": "brado",
+      "normalizedWord": "brado"
     },
     {
       "id": 71,
-      "word": "pária"
+      "word": "pária",
+      "normalizedWord": "paria"
     },
     {
       "id": 72,
-      "word": "coser"
+      "word": "coser",
+      "normalizedWord": "coser"
     },
     {
       "id": 73,
-      "word": "genro"
+      "word": "genro",
+      "normalizedWord": "genro"
     },
     {
       "id": 74,
-      "word": "ainda"
+      "word": "ainda",
+      "normalizedWord": "ainda"
     },
     {
       "id": 75,
-      "word": "crivo"
+      "word": "crivo",
+      "normalizedWord": "crivo"
     },
     {
       "id": 76,
-      "word": "temor"
+      "word": "temor",
+      "normalizedWord": "temor"
     },
     {
       "id": 77,
-      "word": "posse"
+      "word": "posse",
+      "normalizedWord": "posse"
     },
     {
       "id": 78,
-      "word": "comum"
+      "word": "comum",
+      "normalizedWord": "comum"
     },
     {
       "id": 79,
-      "word": "prole"
+      "word": "prole",
+      "normalizedWord": "prole"
     },
     {
       "id": 80,
-      "word": "ápice"
+      "word": "ápice",
+      "normalizedWord": "apice"
     },
     {
       "id": 81,
-      "word": "ânimo"
+      "word": "ânimo",
+      "normalizedWord": "animo"
     },
     {
       "id": 82,
-      "word": "corja"
+      "word": "corja",
+      "normalizedWord": "corja"
     },
     {
       "id": 83,
-      "word": "assaz"
+      "word": "assaz",
+      "normalizedWord": "assaz"
     },
     {
       "id": 84,
-      "word": "detém"
+      "word": "detém",
+      "normalizedWord": "detem"
     },
     {
       "id": 85,
-      "word": "ceder"
+      "word": "ceder",
+      "normalizedWord": "ceder"
     },
     {
       "id": 86,
-      "word": "pauta"
+      "word": "pauta",
+      "normalizedWord": "pauta"
     },
     {
       "id": 87,
-      "word": "fugaz"
+      "word": "fugaz",
+      "normalizedWord": "fugaz"
     },
     {
       "id": 88,
-      "word": "ânsia"
+      "word": "ânsia",
+      "normalizedWord": "ansia"
     },
     {
       "id": 89,
-      "word": "censo"
+      "word": "censo",
+      "normalizedWord": "censo"
     },
     {
       "id": 90,
-      "word": "culto"
+      "word": "culto",
+      "normalizedWord": "culto"
     },
     {
       "id": 91,
-      "word": "digno"
+      "word": "digno",
+      "normalizedWord": "digno"
     },
     {
       "id": 92,
-      "word": "atroz"
+      "word": "atroz",
+      "normalizedWord": "atroz"
     },
     {
       "id": 93,
-      "word": "mundo"
+      "word": "mundo",
+      "normalizedWord": "mundo"
     },
     {
       "id": 94,
-      "word": "forte"
+      "word": "forte",
+      "normalizedWord": "forte"
     },
     {
       "id": 95,
-      "word": "gleba"
+      "word": "gleba",
+      "normalizedWord": "gleba"
     },
     {
       "id": 96,
-      "word": "vulgo"
+      "word": "vulgo",
+      "normalizedWord": "vulgo"
     },
     {
       "id": 97,
-      "word": "vício"
+      "word": "vício",
+      "normalizedWord": "vicio"
     },
     {
       "id": 98,
-      "word": "mesmo"
+      "word": "mesmo",
+      "normalizedWord": "mesmo"
     },
     {
       "id": 99,
-      "word": "saúde"
+      "word": "saúde",
+      "normalizedWord": "saude"
     },
     {
       "id": 100,
-      "word": "criar"
+      "word": "criar",
+      "normalizedWord": "criar"
     },
     {
       "id": 101,
-      "word": "cozer"
+      "word": "cozer",
+      "normalizedWord": "cozer"
     },
     {
       "id": 102,
-      "word": "valha"
+      "word": "valha",
+      "normalizedWord": "valha"
     },
     {
       "id": 103,
-      "word": "revés"
+      "word": "revés",
+      "normalizedWord": "reves"
     },
     {
       "id": 104,
-      "word": "denso"
+      "word": "denso",
+      "normalizedWord": "denso"
     },
     {
       "id": 105,
-      "word": "todos"
+      "word": "todos",
+      "normalizedWord": "todos"
     },
     {
       "id": 106,
-      "word": "jeito"
+      "word": "jeito",
+      "normalizedWord": "jeito"
     },
     {
       "id": 107,
-      "word": "pudor"
+      "word": "pudor",
+      "normalizedWord": "pudor"
     },
     {
       "id": 108,
-      "word": "dogma"
+      "word": "dogma",
+      "normalizedWord": "dogma"
     },
     {
       "id": 109,
-      "word": "neném"
+      "word": "neném",
+      "normalizedWord": "nenem"
     },
     {
       "id": 110,
-      "word": "louco"
+      "word": "louco",
+      "normalizedWord": "louco"
     },
     {
       "id": 111,
-      "word": "regra"
+      "word": "regra",
+      "normalizedWord": "regra"
     },
     {
       "id": 112,
-      "word": "atrás"
+      "word": "atrás",
+      "normalizedWord": "atras"
     },
     {
       "id": 113,
-      "word": "ordem"
+      "word": "ordem",
+      "normalizedWord": "ordem"
     },
     {
       "id": 114,
-      "word": "clava"
+      "word": "clava",
+      "normalizedWord": "clava"
     },
     {
       "id": 115,
-      "word": "mercê"
+      "word": "mercê",
+      "normalizedWord": "merce"
     },
     {
       "id": 116,
-      "word": "feliz"
+      "word": "feliz",
+      "normalizedWord": "feliz"
     },
     {
       "id": 117,
-      "word": "pedir"
+      "word": "pedir",
+      "normalizedWord": "pedir"
     },
     {
       "id": 118,
-      "word": "homem"
+      "word": "homem",
+      "normalizedWord": "homem"
     },
     {
       "id": 119,
-      "word": "limbo"
+      "word": "limbo",
+      "normalizedWord": "limbo"
     },
     {
       "id": 120,
-      "word": "impor"
+      "word": "impor",
+      "normalizedWord": "impor"
     },
     {
       "id": 121,
-      "word": "banal"
+      "word": "banal",
+      "normalizedWord": "banal"
     },
     {
       "id": 122,
-      "word": "round"
+      "word": "round",
+      "normalizedWord": "round"
     },
     {
       "id": 123,
-      "word": "usura"
+      "word": "usura",
+      "normalizedWord": "usura"
     },
     {
       "id": 124,
-      "word": "coisa"
+      "word": "coisa",
+      "normalizedWord": "coisa"
     },
     {
       "id": 125,
-      "word": "juízo"
+      "word": "juízo",
+      "normalizedWord": "juizo"
     },
     {
       "id": 126,
-      "word": "ajuda"
+      "word": "ajuda",
+      "normalizedWord": "ajuda"
     },
     {
       "id": 127,
-      "word": "sábio"
+      "word": "sábio",
+      "normalizedWord": "sabio"
     },
     {
       "id": 128,
-      "word": "forma"
+      "word": "forma",
+      "normalizedWord": "forma"
     },
     {
       "id": 129,
-      "word": "apraz"
+      "word": "apraz",
+      "normalizedWord": "apraz"
     },
     {
       "id": 130,
-      "word": "servo"
+      "word": "servo",
+      "normalizedWord": "servo"
     },
     {
       "id": 131,
-      "word": "legal"
+      "word": "legal",
+      "normalizedWord": "legal"
     },
     {
       "id": 132,
-      "word": "prosa"
+      "word": "prosa",
+      "normalizedWord": "prosa"
     },
     {
       "id": 133,
-      "word": "falar"
+      "word": "falar",
+      "normalizedWord": "falar"
     },
     {
       "id": 134,
-      "word": "certo"
+      "word": "certo",
+      "normalizedWord": "certo"
     },
     {
       "id": 135,
-      "word": "tenro"
+      "word": "tenro",
+      "normalizedWord": "tenro"
     },
     {
       "id": 136,
-      "word": "presa"
+      "word": "presa",
+      "normalizedWord": "presa"
     },
     {
       "id": 137,
-      "word": "desse"
+      "word": "desse",
+      "normalizedWord": "desse"
     },
     {
       "id": 138,
-      "word": "pífio"
+      "word": "pífio",
+      "normalizedWord": "pifio"
     },
     {
       "id": 139,
-      "word": "posso"
+      "word": "posso",
+      "normalizedWord": "posso"
     },
     {
       "id": 140,
-      "word": "cunho"
+      "word": "cunho",
+      "normalizedWord": "cunho"
     },
     {
       "id": 141,
-      "word": "vendo"
+      "word": "vendo",
+      "normalizedWord": "vendo"
     },
     {
       "id": 142,
-      "word": "falso"
+      "word": "falso",
+      "normalizedWord": "falso"
     },
     {
       "id": 143,
-      "word": "viril"
+      "word": "viril",
+      "normalizedWord": "viril"
     },
     {
       "id": 144,
-      "word": "ontem"
+      "word": "ontem",
+      "normalizedWord": "ontem"
     },
     {
       "id": 145,
-      "word": "devir"
+      "word": "devir",
+      "normalizedWord": "devir"
     },
     {
       "id": 146,
-      "word": "herói"
+      "word": "herói",
+      "normalizedWord": "heroi"
     },
     {
       "id": 147,
-      "word": "fácil"
+      "word": "fácil",
+      "normalizedWord": "facil"
     },
     {
       "id": 148,
-      "word": "manso"
+      "word": "manso",
+      "normalizedWord": "manso"
     },
     {
       "id": 149,
-      "word": "valor"
+      "word": "valor",
+      "normalizedWord": "valor"
     },
     {
       "id": 150,
-      "word": "visar"
+      "word": "visar",
+      "normalizedWord": "visar"
     },
     {
       "id": 151,
-      "word": "meiga"
+      "word": "meiga",
+      "normalizedWord": "meiga"
     },
     {
       "id": 152,
-      "word": "puder"
+      "word": "puder",
+      "normalizedWord": "puder"
     },
     {
       "id": 153,
-      "word": "sério"
+      "word": "sério",
+      "normalizedWord": "serio"
     },
     {
       "id": 154,
-      "word": "mágoa"
+      "word": "mágoa",
+      "normalizedWord": "magoa"
     },
     {
       "id": 155,
-      "word": "reaça"
+      "word": "reaça",
+      "normalizedWord": "reaca"
     },
     {
       "id": 156,
-      "word": "linda"
+      "word": "linda",
+      "normalizedWord": "linda"
     },
     {
       "id": 157,
-      "word": "ébrio"
+      "word": "ébrio",
+      "normalizedWord": "ebrio"
     },
     {
       "id": 158,
-      "word": "acaso"
+      "word": "acaso",
+      "normalizedWord": "acaso"
     },
     {
       "id": 159,
-      "word": "guisa"
+      "word": "guisa",
+      "normalizedWord": "guisa"
     },
     {
       "id": 160,
-      "word": "fluir"
+      "word": "fluir",
+      "normalizedWord": "fluir"
     },
     {
       "id": 161,
-      "word": "afago"
+      "word": "afago",
+      "normalizedWord": "afago"
     },
     {
       "id": 162,
-      "word": "platô"
+      "word": "platô",
+      "normalizedWord": "plato"
     },
     {
       "id": 163,
-      "word": "lugar"
+      "word": "lugar",
+      "normalizedWord": "lugar"
     },
     {
       "id": 164,
-      "word": "ímpio"
+      "word": "ímpio",
+      "normalizedWord": "impio"
     },
     {
       "id": 165,
-      "word": "temer"
+      "word": "temer",
+      "normalizedWord": "temer"
     },
     {
       "id": 166,
-      "word": "garbo"
+      "word": "garbo",
+      "normalizedWord": "garbo"
     },
     {
       "id": 167,
-      "word": "abrir"
+      "word": "abrir",
+      "normalizedWord": "abrir"
     },
     {
       "id": 168,
-      "word": "praxe"
+      "word": "praxe",
+      "normalizedWord": "praxe"
     },
     {
       "id": 169,
-      "word": "obter"
+      "word": "obter",
+      "normalizedWord": "obter"
     },
     {
       "id": 170,
-      "word": "gerar"
+      "word": "gerar",
+      "normalizedWord": "gerar"
     },
     {
       "id": 171,
-      "word": "afins"
+      "word": "afins",
+      "normalizedWord": "afins"
     },
     {
       "id": 172,
-      "word": "união"
+      "word": "união",
+      "normalizedWord": "uniao"
     },
     {
       "id": 173,
-      "word": "burro"
+      "word": "burro",
+      "normalizedWord": "burro"
     },
     {
       "id": 174,
-      "word": "óbvio"
+      "word": "óbvio",
+      "normalizedWord": "obvio"
     },
     {
       "id": 175,
-      "word": "matiz"
+      "word": "matiz",
+      "normalizedWord": "matiz"
     },
     {
       "id": 176,
-      "word": "cisma"
+      "word": "cisma",
+      "normalizedWord": "cisma"
     },
     {
       "id": 177,
-      "word": "bruma"
+      "word": "bruma",
+      "normalizedWord": "bruma"
     },
     {
       "id": 178,
-      "word": "pleno"
+      "word": "pleno",
+      "normalizedWord": "pleno"
     },
     {
       "id": 179,
-      "word": "crise"
+      "word": "crise",
+      "normalizedWord": "crise"
     },
     {
       "id": 180,
-      "word": "êxodo"
+      "word": "êxodo",
+      "normalizedWord": "exodo"
     },
     {
       "id": 181,
-      "word": "vênia"
+      "word": "vênia",
+      "normalizedWord": "venia"
     },
     {
       "id": 182,
-      "word": "fluxo"
+      "word": "fluxo",
+      "normalizedWord": "fluxo"
     },
     {
       "id": 183,
-      "word": "tédio"
+      "word": "tédio",
+      "normalizedWord": "tedio"
     },
     {
       "id": 184,
-      "word": "havia"
+      "word": "havia",
+      "normalizedWord": "havia"
     },
     {
       "id": 185,
-      "word": "senil"
+      "word": "senil",
+      "normalizedWord": "senil"
     },
     {
       "id": 186,
-      "word": "ritmo"
+      "word": "ritmo",
+      "normalizedWord": "ritmo"
     },
     {
       "id": 187,
-      "word": "morte"
+      "word": "morte",
+      "normalizedWord": "morte"
     },
     {
       "id": 188,
-      "word": "levar"
+      "word": "levar",
+      "normalizedWord": "levar"
     },
     {
       "id": 189,
-      "word": "álibi"
+      "word": "álibi",
+      "normalizedWord": "alibi"
     },
     {
       "id": 190,
-      "word": "enfim"
+      "word": "enfim",
+      "normalizedWord": "enfim"
     },
     {
       "id": 191,
-      "word": "olhar"
+      "word": "olhar",
+      "normalizedWord": "olhar"
     },
     {
       "id": 192,
-      "word": "tomar"
+      "word": "tomar",
+      "normalizedWord": "tomar"
     },
     {
       "id": 193,
-      "word": "visão"
+      "word": "visão",
+      "normalizedWord": "visao"
     },
     {
       "id": 194,
-      "word": "casta"
+      "word": "casta",
+      "normalizedWord": "casta"
     },
     {
       "id": 195,
-      "word": "gênio"
+      "word": "gênio",
+      "normalizedWord": "genio"
     },
     {
       "id": 196,
-      "word": "prumo"
+      "word": "prumo",
+      "normalizedWord": "prumo"
     },
     {
       "id": 197,
-      "word": "brega"
+      "word": "brega",
+      "normalizedWord": "brega"
     },
     {
       "id": 198,
-      "word": "parvo"
+      "word": "parvo",
+      "normalizedWord": "parvo"
     },
     {
       "id": 199,
-      "word": "vital"
+      "word": "vital",
+      "normalizedWord": "vital"
     },
     {
       "id": 200,
-      "word": "bravo"
+      "word": "bravo",
+      "normalizedWord": "bravo"
     },
     {
       "id": 201,
-      "word": "ouvir"
+      "word": "ouvir",
+      "normalizedWord": "ouvir"
     },
     {
       "id": 202,
-      "word": "favor"
+      "word": "favor",
+      "normalizedWord": "favor"
     },
     {
       "id": 203,
-      "word": "cabal"
+      "word": "cabal",
+      "normalizedWord": "cabal"
     },
     {
       "id": 204,
-      "word": "reles"
+      "word": "reles",
+      "normalizedWord": "reles"
     },
     {
       "id": 205,
-      "word": "falta"
+      "word": "falta",
+      "normalizedWord": "falta"
     },
     {
       "id": 206,
-      "word": "calma"
+      "word": "calma",
+      "normalizedWord": "calma"
     },
     {
       "id": 207,
-      "word": "parco"
+      "word": "parco",
+      "normalizedWord": "parco"
     },
     {
       "id": 208,
-      "word": "pulha"
+      "word": "pulha",
+      "normalizedWord": "pulha"
     },
     {
       "id": 209,
-      "word": "vivaz"
+      "word": "vivaz",
+      "normalizedWord": "vivaz"
     },
     {
       "id": 210,
-      "word": "reter"
+      "word": "reter",
+      "normalizedWord": "reter"
     },
     {
       "id": 211,
-      "word": "outro"
+      "word": "outro",
+      "normalizedWord": "outro"
     },
     {
       "id": 212,
-      "word": "tecer"
+      "word": "tecer",
+      "normalizedWord": "tecer"
     },
     {
       "id": 213,
-      "word": "sábia"
+      "word": "sábia",
+      "normalizedWord": "sabia"
     },
     {
       "id": 214,
-      "word": "terra"
+      "word": "terra",
+      "normalizedWord": "terra"
     },
     {
       "id": 215,
-      "word": "tendo"
+      "word": "tendo",
+      "normalizedWord": "tendo"
     },
     {
       "id": 216,
-      "word": "valia"
+      "word": "valia",
+      "normalizedWord": "valia"
     },
     {
       "id": 217,
-      "word": "ameno"
+      "word": "ameno",
+      "normalizedWord": "ameno"
     },
     {
       "id": 218,
-      "word": "viver"
+      "word": "viver",
+      "normalizedWord": "viver"
     },
     {
       "id": 219,
-      "word": "laico"
+      "word": "laico",
+      "normalizedWord": "laico"
     },
     {
       "id": 220,
-      "word": "grato"
+      "word": "grato",
+      "normalizedWord": "grato"
     },
     {
       "id": 221,
-      "word": "força"
+      "word": "força",
+      "normalizedWord": "forca"
     },
     {
       "id": 222,
-      "word": "passo"
+      "word": "passo",
+      "normalizedWord": "passo"
     },
     {
       "id": 223,
-      "word": "único"
+      "word": "único",
+      "normalizedWord": "unico"
     },
     {
       "id": 224,
-      "word": "noção"
+      "word": "noção",
+      "normalizedWord": "nocao"
     },
     {
       "id": 225,
-      "word": "carma"
+      "word": "carma",
+      "normalizedWord": "carma"
     },
     {
       "id": 226,
-      "word": "possa"
+      "word": "possa",
+      "normalizedWord": "possa"
     },
     {
       "id": 227,
-      "word": "achar"
+      "word": "achar",
+      "normalizedWord": "achar"
     },
     {
       "id": 228,
-      "word": "nicho"
+      "word": "nicho",
+      "normalizedWord": "nicho"
     },
     {
       "id": 229,
-      "word": "ranço"
+      "word": "ranço",
+      "normalizedWord": "ranco"
     },
     {
       "id": 230,
-      "word": "pobre"
+      "word": "pobre",
+      "normalizedWord": "pobre"
     },
     {
       "id": 231,
-      "word": "rever"
+      "word": "rever",
+      "normalizedWord": "rever"
     },
     {
       "id": 232,
-      "word": "papel"
+      "word": "papel",
+      "normalizedWord": "papel"
     },
     {
       "id": 233,
-      "word": "noite"
+      "word": "noite",
+      "normalizedWord": "noite"
     },
     {
       "id": 234,
-      "word": "façam"
+      "word": "façam",
+      "normalizedWord": "facam"
     },
     {
       "id": 235,
-      "word": "rogar"
+      "word": "rogar",
+      "normalizedWord": "rogar"
     },
     {
       "id": 236,
-      "word": "prime"
+      "word": "prime",
+      "normalizedWord": "prime"
     },
     {
       "id": 237,
-      "word": "farsa"
+      "word": "farsa",
+      "normalizedWord": "farsa"
     },
     {
       "id": 238,
-      "word": "nossa"
+      "word": "nossa",
+      "normalizedWord": "nossa"
     },
     {
       "id": 239,
-      "word": "fardo"
+      "word": "fardo",
+      "normalizedWord": "fardo"
     },
     {
       "id": 240,
-      "word": "ativo"
+      "word": "ativo",
+      "normalizedWord": "ativo"
     },
     {
       "id": 241,
-      "word": "fator"
+      "word": "fator",
+      "normalizedWord": "fator"
     },
     {
       "id": 242,
-      "word": "dúbio"
+      "word": "dúbio",
+      "normalizedWord": "dubio"
     },
     {
       "id": 243,
-      "word": "coeso"
+      "word": "coeso",
+      "normalizedWord": "coeso"
     },
     {
       "id": 244,
-      "word": "óbito"
+      "word": "óbito",
+      "normalizedWord": "obito"
     },
     {
       "id": 245,
-      "word": "selar"
+      "word": "selar",
+      "normalizedWord": "selar"
     },
     {
       "id": 246,
-      "word": "épico"
+      "word": "épico",
+      "normalizedWord": "epico"
     },
     {
       "id": 247,
-      "word": "anelo"
+      "word": "anelo",
+      "normalizedWord": "anelo"
     },
     {
       "id": 248,
-      "word": "claro"
+      "word": "claro",
+      "normalizedWord": "claro"
     },
     {
       "id": 249,
-      "word": "sinto"
+      "word": "sinto",
+      "normalizedWord": "sinto"
     },
     {
       "id": 250,
-      "word": "citar"
+      "word": "citar",
+      "normalizedWord": "citar"
     },
     {
       "id": 251,
-      "word": "líder"
+      "word": "líder",
+      "normalizedWord": "lider"
     },
     {
       "id": 252,
-      "word": "leigo"
+      "word": "leigo",
+      "normalizedWord": "leigo"
     },
     {
       "id": 253,
-      "word": "sesta"
+      "word": "sesta",
+      "normalizedWord": "sesta"
     },
     {
       "id": 254,
-      "word": "cisão"
+      "word": "cisão",
+      "normalizedWord": "cisao"
     },
     {
       "id": 255,
-      "word": "sonso"
+      "word": "sonso",
+      "normalizedWord": "sonso"
     },
     {
       "id": 256,
-      "word": "cesta"
+      "word": "cesta",
+      "normalizedWord": "cesta"
     },
     {
       "id": 257,
-      "word": "ciúme"
+      "word": "ciúme",
+      "normalizedWord": "ciume"
     },
     {
       "id": 258,
-      "word": "deter"
+      "word": "deter",
+      "normalizedWord": "deter"
     },
     {
       "id": 259,
-      "word": "velho"
+      "word": "velho",
+      "normalizedWord": "velho"
     },
     {
       "id": 260,
-      "word": "atuar"
+      "word": "atuar",
+      "normalizedWord": "atuar"
     },
     {
       "id": 261,
-      "word": "adiar"
+      "word": "adiar",
+      "normalizedWord": "adiar"
     },
     {
       "id": 262,
-      "word": "haste"
+      "word": "haste",
+      "normalizedWord": "haste"
     },
     {
       "id": 263,
-      "word": "tende"
+      "word": "tende",
+      "normalizedWord": "tende"
     },
     {
       "id": 264,
-      "word": "gente"
+      "word": "gente",
+      "normalizedWord": "gente"
     },
     {
       "id": 265,
-      "word": "humor"
+      "word": "humor",
+      "normalizedWord": "humor"
     },
     {
       "id": 266,
-      "word": "revel"
+      "word": "revel",
+      "normalizedWord": "revel"
     },
     {
       "id": 267,
-      "word": "vazio"
+      "word": "vazio",
+      "normalizedWord": "vazio"
     },
     {
       "id": 268,
-      "word": "ficha"
+      "word": "ficha",
+      "normalizedWord": "ficha"
     },
     {
       "id": 269,
-      "word": "adeus"
+      "word": "adeus",
+      "normalizedWord": "adeus"
     },
     {
       "id": 270,
-      "word": "alado"
+      "word": "alado",
+      "normalizedWord": "alado"
     },
     {
       "id": 271,
-      "word": "alçar"
+      "word": "alçar",
+      "normalizedWord": "alcar"
     },
     {
       "id": 272,
-      "word": "alema"
+      "word": "alema",
+      "normalizedWord": "alema"
     },
     {
       "id": 273,
-      "word": "algar"
+      "word": "algar",
+      "normalizedWord": "algar"
     },
     {
       "id": 274,
-      "word": "aliar"
+      "word": "aliar",
+      "normalizedWord": "aliar"
     },
     {
       "id": 275,
-      "word": "almas"
+      "word": "almas",
+      "normalizedWord": "almas"
     },
     {
       "id": 276,
-      "word": "alter"
+      "word": "alter",
+      "normalizedWord": "alter"
     },
     {
       "id": 277,
-      "word": "altos"
+      "word": "altos",
+      "normalizedWord": "altos"
     },
     {
       "id": 278,
-      "word": "anais"
+      "word": "anais",
+      "normalizedWord": "anais"
     },
     {
       "id": 279,
-      "word": "andar"
+      "word": "andar",
+      "normalizedWord": "andar"
     },
     {
       "id": 280,
-      "word": "animo"
+      "word": "animo",
+      "normalizedWord": "animo"
     },
     {
       "id": 281,
-      "word": "antes"
+      "word": "antes",
+      "normalizedWord": "antes"
     },
     {
       "id": 282,
-      "word": "antro"
+      "word": "antro",
+      "normalizedWord": "antro"
     },
     {
       "id": 283,
-      "word": "apear"
+      "word": "apear",
+      "normalizedWord": "apear"
     },
     {
       "id": 284,
-      "word": "apelo"
+      "word": "apelo",
+      "normalizedWord": "apelo"
     },
     {
       "id": 285,
-      "word": "arado"
+      "word": "arado",
+      "normalizedWord": "arado"
     },
     {
       "id": 286,
-      "word": "areia"
+      "word": "areia",
+      "normalizedWord": "areia"
     },
     {
       "id": 287,
-      "word": "argos"
+      "word": "argos",
+      "normalizedWord": "argos"
     },
     {
       "id": 288,
-      "word": "armas"
+      "word": "armas",
+      "normalizedWord": "armas"
     },
     {
       "id": 289,
-      "word": "arote"
+      "word": "arote",
+      "normalizedWord": "arote"
     },
     {
       "id": 290,
-      "word": "arroz"
+      "word": "arroz",
+      "normalizedWord": "arroz"
     },
     {
       "id": 291,
-      "word": "artes"
+      "word": "artes",
+      "normalizedWord": "artes"
     },
     {
       "id": 292,
-      "word": "asilo"
+      "word": "asilo",
+      "normalizedWord": "asilo"
     },
     {
       "id": 293,
-      "word": "aspas"
+      "word": "aspas",
+      "normalizedWord": "aspas"
     },
     {
       "id": 294,
-      "word": "aster"
+      "word": "aster",
+      "normalizedWord": "aster"
     },
     {
       "id": 295,
-      "word": "avaro"
+      "word": "avaro",
+      "normalizedWord": "avaro"
     },
     {
       "id": 296,
-      "word": "aviso"
+      "word": "aviso",
+      "normalizedWord": "aviso"
     },
     {
       "id": 297,
-      "word": "azado"
+      "word": "azado",
+      "normalizedWord": "azado"
     },
     {
       "id": 298,
-      "word": "azedo"
+      "word": "azedo",
+      "normalizedWord": "azedo"
     },
     {
       "id": 299,
-      "word": "balda"
+      "word": "balda",
+      "normalizedWord": "balda"
     },
     {
       "id": 300,
-      "word": "bando"
+      "word": "bando",
+      "normalizedWord": "bando"
     },
     {
       "id": 301,
-      "word": "barco"
+      "word": "barco",
+      "normalizedWord": "barco"
     },
     {
       "id": 302,
-      "word": "barro"
+      "word": "barro",
+      "normalizedWord": "barro"
     },
     {
       "id": 303,
-      "word": "beata"
+      "word": "beata",
+      "normalizedWord": "beata"
     },
     {
       "id": 304,
-      "word": "beijo"
+      "word": "beijo",
+      "normalizedWord": "beijo"
     },
     {
       "id": 305,
-      "word": "beira"
+      "word": "beira",
+      "normalizedWord": "beira"
     },
     {
       "id": 306,
-      "word": "belos"
+      "word": "belos",
+      "normalizedWord": "belos"
     },
     {
       "id": 307,
-      "word": "berço"
+      "word": "berço",
+      "normalizedWord": "berco"
     },
     {
       "id": 308,
-      "word": "besta"
+      "word": "besta",
+      "normalizedWord": "besta"
     },
     {
       "id": 309,
-      "word": "bílis"
+      "word": "bílis",
+      "normalizedWord": "bilis"
     },
     {
       "id": 310,
-      "word": "bloco"
+      "word": "bloco",
+      "normalizedWord": "bloco"
     },
     {
       "id": 311,
-      "word": "boato"
+      "word": "boato",
+      "normalizedWord": "boato"
     },
     {
       "id": 312,
-      "word": "bolsa"
+      "word": "bolsa",
+      "normalizedWord": "bolsa"
     },
     {
       "id": 313,
-      "word": "bomba"
+      "word": "bomba",
+      "normalizedWord": "bomba"
     },
     {
       "id": 314,
-      "word": "borda"
+      "word": "borda",
+      "normalizedWord": "borda"
     },
     {
       "id": 315,
-      "word": "bosco"
+      "word": "bosco",
+      "normalizedWord": "bosco"
     },
     {
       "id": 316,
-      "word": "brasa"
+      "word": "brasa",
+      "normalizedWord": "brasa"
     },
     {
       "id": 317,
-      "word": "brava"
+      "word": "brava",
+      "normalizedWord": "brava"
     },
     {
       "id": 318,
-      "word": "breve"
+      "word": "breve",
+      "normalizedWord": "breve"
     },
     {
       "id": 319,
-      "word": "briga"
+      "word": "briga",
+      "normalizedWord": "briga"
     },
     {
       "id": 320,
-      "word": "brisa"
+      "word": "brisa",
+      "normalizedWord": "brisa"
     },
     {
       "id": 321,
-      "word": "broto"
+      "word": "broto",
+      "normalizedWord": "broto"
     },
     {
       "id": 322,
-      "word": "bulir"
+      "word": "bulir",
+      "normalizedWord": "bulir"
     },
     {
       "id": 323,
-      "word": "burgo"
+      "word": "burgo",
+      "normalizedWord": "burgo"
     },
     {
       "id": 324,
-      "word": "burra"
+      "word": "burra",
+      "normalizedWord": "burra"
     },
     {
       "id": 325,
-      "word": "busca"
+      "word": "busca",
+      "normalizedWord": "busca"
     },
     {
       "id": 326,
-      "word": "cabos"
+      "word": "cabos",
+      "normalizedWord": "cabos"
     },
     {
       "id": 327,
-      "word": "cacho"
+      "word": "cacho",
+      "normalizedWord": "cacho"
     },
     {
       "id": 328,
-      "word": "caída"
+      "word": "caída",
+      "normalizedWord": "caida"
     },
     {
       "id": 329,
-      "word": "calda"
+      "word": "calda",
+      "normalizedWord": "calda"
     },
     {
       "id": 330,
-      "word": "campo"
+      "word": "campo",
+      "normalizedWord": "campo"
     },
     {
       "id": 331,
-      "word": "canas"
+      "word": "canas",
+      "normalizedWord": "canas"
     },
     {
       "id": 332,
-      "word": "canoa"
+      "word": "canoa",
+      "normalizedWord": "canoa"
     },
     {
       "id": 333,
-      "word": "canto"
+      "word": "canto",
+      "normalizedWord": "canto"
     },
     {
       "id": 334,
-      "word": "capaz"
+      "word": "capaz",
+      "normalizedWord": "capaz"
     },
     {
       "id": 335,
-      "word": "capuz"
+      "word": "capuz",
+      "normalizedWord": "capuz"
     },
     {
       "id": 336,
-      "word": "caras"
+      "word": "caras",
+      "normalizedWord": "caras"
     },
     {
       "id": 337,
-      "word": "carga"
+      "word": "carga",
+      "normalizedWord": "carga"
     },
     {
       "id": 338,
-      "word": "carne"
+      "word": "carne",
+      "normalizedWord": "carne"
     },
     {
       "id": 339,
-      "word": "carta"
+      "word": "carta",
+      "normalizedWord": "carta"
     },
     {
       "id": 340,
-      "word": "casco"
+      "word": "casco",
+      "normalizedWord": "casco"
     },
     {
       "id": 341,
-      "word": "pátio"
+      "word": "pátio",
+      "normalizedWord": "patio"
     },
     {
       "id": 342,
-      "word": "cegos"
+      "word": "cegos",
+      "normalizedWord": "cegos"
     },
     {
       "id": 343,
-      "word": "chave"
+      "word": "chave",
+      "normalizedWord": "chave"
     },
     {
       "id": 344,
-      "word": "chefe"
+      "word": "chefe",
+      "normalizedWord": "chefe"
     },
     {
       "id": 345,
-      "word": "choro"
+      "word": "choro",
+      "normalizedWord": "choro"
     },
     {
       "id": 346,
-      "word": "ciclo"
+      "word": "ciclo",
+      "normalizedWord": "ciclo"
     },
     {
       "id": 347,
-      "word": "cinto"
+      "word": "cinto",
+      "normalizedWord": "cinto"
     },
     {
       "id": 348,
-      "word": "circo"
+      "word": "circo",
+      "normalizedWord": "circo"
     },
     {
       "id": 349,
-      "word": "clero"
+      "word": "clero",
+      "normalizedWord": "clero"
     },
     {
       "id": 350,
-      "word": "clima"
+      "word": "clima",
+      "normalizedWord": "clima"
     },
     {
       "id": 351,
-      "word": "clipe"
+      "word": "clipe",
+      "normalizedWord": "clipe"
     },
     {
       "id": 352,
-      "word": "coado"
+      "word": "coado",
+      "normalizedWord": "coado"
     },
     {
       "id": 353,
-      "word": "coesa"
+      "word": "coesa",
+      "normalizedWord": "coesa"
     },
     {
       "id": 354,
-      "word": "colmo"
+      "word": "colmo",
+      "normalizedWord": "colmo"
     },
     {
       "id": 355,
-      "word": "combo"
+      "word": "combo",
+      "normalizedWord": "combo"
     },
     {
       "id": 356,
-      "word": "compo"
+      "word": "compo",
+      "normalizedWord": "compo"
     },
     {
       "id": 357,
-      "word": "conde"
+      "word": "conde",
+      "normalizedWord": "conde"
     },
     {
       "id": 358,
-      "word": "conto"
+      "word": "conto",
+      "normalizedWord": "conto"
     },
     {
       "id": 359,
-      "word": "corpo"
+      "word": "corpo",
+      "normalizedWord": "corpo"
     },
     {
       "id": 360,
-      "word": "corte"
+      "word": "corte",
+      "normalizedWord": "corte"
     },
     {
       "id": 361,
-      "word": "cosmo"
+      "word": "cosmo",
+      "normalizedWord": "cosmo"
     },
     {
       "id": 362,
-      "word": "costa"
+      "word": "costa",
+      "normalizedWord": "costa"
     },
     {
       "id": 363,
-      "word": "cotas"
+      "word": "cotas",
+      "normalizedWord": "cotas"
     },
     {
       "id": 364,
-      "word": "couve"
+      "word": "couve",
+      "normalizedWord": "couve"
     },
     {
       "id": 365,
-      "word": "cravo"
+      "word": "cravo",
+      "normalizedWord": "cravo"
     },
     {
       "id": 366,
-      "word": "credo"
+      "word": "credo",
+      "normalizedWord": "credo"
     },
     {
       "id": 367,
-      "word": "cromo"
+      "word": "cromo",
+      "normalizedWord": "cromo"
     },
     {
       "id": 368,
-      "word": "cuida"
+      "word": "cuida",
+      "normalizedWord": "cuida"
     },
     {
       "id": 369,
-      "word": "curto"
+      "word": "curto",
+      "normalizedWord": "curto"
     },
     {
       "id": 370,
-      "word": "curva"
+      "word": "curva",
+      "normalizedWord": "curva"
     },
     {
       "id": 371,
-      "word": "dados"
+      "word": "dados",
+      "normalizedWord": "dados"
     },
     {
       "id": 372,
-      "word": "damas"
+      "word": "damas",
+      "normalizedWord": "damas"
     },
     {
       "id": 373,
-      "word": "dardo"
+      "word": "dardo",
+      "normalizedWord": "dardo"
     },
     {
       "id": 374,
-      "word": "debil"
+      "word": "debil",
+      "normalizedWord": "debil"
     },
     {
       "id": 375,
-      "word": "deixa"
+      "word": "deixa",
+      "normalizedWord": "deixa"
     },
     {
       "id": 376,
-      "word": "delta"
+      "word": "delta",
+      "normalizedWord": "delta"
     },
     {
       "id": 377,
-      "word": "dente"
+      "word": "dente",
+      "normalizedWord": "dente"
     },
     {
       "id": 378,
-      "word": "depor"
+      "word": "depor",
+      "normalizedWord": "depor"
     },
     {
       "id": 379,
-      "word": "derme"
+      "word": "derme",
+      "normalizedWord": "derme"
     },
     {
       "id": 380,
-      "word": "desço"
+      "word": "desço",
+      "normalizedWord": "desco"
     },
     {
       "id": 381,
-      "word": "desta"
+      "word": "desta",
+      "normalizedWord": "desta"
     },
     {
       "id": 382,
-      "word": "diabo"
+      "word": "diabo",
+      "normalizedWord": "diabo"
     },
     {
       "id": 383,
-      "word": "dicas"
+      "word": "dicas",
+      "normalizedWord": "dicas"
     },
     {
       "id": 384,
-      "word": "dique"
+      "word": "dique",
+      "normalizedWord": "dique"
     },
     {
       "id": 385,
-      "word": "disco"
+      "word": "disco",
+      "normalizedWord": "disco"
     },
     {
       "id": 386,
-      "word": "ditar"
+      "word": "ditar",
+      "normalizedWord": "ditar"
     },
     {
       "id": 387,
-      "word": "dócil"
+      "word": "dócil",
+      "normalizedWord": "docil"
     },
     {
       "id": 388,
-      "word": "drama"
+      "word": "drama",
+      "normalizedWord": "drama"
     },
     {
       "id": 389,
-      "word": "dueto"
+      "word": "dueto",
+      "normalizedWord": "dueto"
     },
     {
       "id": 390,
-      "word": "duras"
+      "word": "duras",
+      "normalizedWord": "duras"
     },
     {
       "id": 391,
-      "word": "ecoar"
+      "word": "ecoar",
+      "normalizedWord": "ecoar"
     },
     {
       "id": 392,
-      "word": "edema"
+      "word": "edema",
+      "normalizedWord": "edema"
     },
     {
       "id": 393,
-      "word": "edito"
+      "word": "edito",
+      "normalizedWord": "edito"
     },
     {
       "id": 394,
-      "word": "patas"
+      "word": "patas",
+      "normalizedWord": "patas"
     },
     {
       "id": 395,
-      "word": "eleva"
+      "word": "eleva",
+      "normalizedWord": "eleva"
     },
     {
       "id": 396,
-      "word": "elite"
+      "word": "elite",
+      "normalizedWord": "elite"
     },
     {
       "id": 397,
-      "word": "ebola"
+      "word": "ebola",
+      "normalizedWord": "ebola"
     },
     {
       "id": 398,
-      "word": "eleva"
+      "word": "eleva",
+      "normalizedWord": "eleva"
     },
     {
       "id": 399,
-      "word": "eleva"
+      "word": "eleva",
+      "normalizedWord": "eleva"
     },
     {
       "id": 400,
-      "word": "enche"
+      "word": "enche",
+      "normalizedWord": "enche"
     },
     {
       "id": 401,
-      "word": "enfia"
+      "word": "enfia",
+      "normalizedWord": "enfia"
     },
     {
       "id": 402,
-      "word": "entra"
+      "word": "entra",
+      "normalizedWord": "entra"
     },
     {
       "id": 403,
-      "word": "entra"
+      "word": "entra",
+      "normalizedWord": "entra"
     },
     {
       "id": 404,
-      "word": "época"
+      "word": "época",
+      "normalizedWord": "epoca"
     },
     {
       "id": 405,
-      "word": "errar"
+      "word": "errar",
+      "normalizedWord": "errar"
     },
     {
       "id": 406,
-      "word": "escoa"
+      "word": "escoa",
+      "normalizedWord": "escoa"
     },
     {
       "id": 407,
-      "word": "escoa"
+      "word": "escoa",
+      "normalizedWord": "escoa"
     },
     {
       "id": 408,
-      "word": "errar"
+      "word": "errar",
+      "normalizedWord": "errar"
     },
     {
       "id": 409,
-      "word": "dolar"
+      "word": "dolar",
+      "normalizedWord": "dolar"
     },
     {
       "id": 410,
-      "word": "essas"
+      "word": "essas",
+      "normalizedWord": "essas"
     },
     {
       "id": 411,
-      "word": "estio"
+      "word": "estio",
+      "normalizedWord": "estio"
     },
     {
       "id": 412,
-      "word": "estro"
+      "word": "estro",
+      "normalizedWord": "estro"
     },
     {
       "id": 413,
-      "word": "etapa"
+      "word": "etapa",
+      "normalizedWord": "etapa"
     },
     {
       "id": 414,
-      "word": "euros"
+      "word": "euros",
+      "normalizedWord": "euros"
     },
     {
       "id": 415,
-      "word": "evoca"
+      "word": "evoca",
+      "normalizedWord": "evoca"
     },
     {
       "id": 416,
-      "word": "exame"
+      "word": "exame",
+      "normalizedWord": "exame"
     },
     {
       "id": 417,
-      "word": "exata"
+      "word": "exata",
+      "normalizedWord": "exata"
     },
     {
       "id": 418,
-      "word": "exige"
+      "word": "exige",
+      "normalizedWord": "exige"
     },
     {
       "id": 419,
-      "word": "faixa"
+      "word": "faixa",
+      "normalizedWord": "faixa"
     },
     {
       "id": 420,
-      "word": "falha"
+      "word": "falha",
+      "normalizedWord": "falha"
     },
     {
       "id": 421,
-      "word": "farda"
+      "word": "farda",
+      "normalizedWord": "farda"
     },
     {
       "id": 422,
-      "word": "fases"
+      "word": "fases",
+      "normalizedWord": "fases"
     },
     {
       "id": 423,
-      "word": "fatal"
+      "word": "fatal",
+      "normalizedWord": "fatal"
     },
     {
       "id": 424,
-      "word": "fauna"
+      "word": "fauna",
+      "normalizedWord": "fauna"
     },
     {
       "id": 425,
-      "word": "faxina"
+      "word": "faxina",
+      "normalizedWord": "faxina"
     },
     {
       "id": 426,
-      "word": "fecho"
+      "word": "fecho",
+      "normalizedWord": "fecho"
     },
     {
       "id": 427,
-      "word": "festa"
+      "word": "festa",
+      "normalizedWord": "festa"
     },
     {
       "id": 428,
-      "word": "fibra"
+      "word": "fibra",
+      "normalizedWord": "fibra"
     },
     {
       "id": 429,
-      "word": "filha"
+      "word": "filha",
+      "normalizedWord": "filha"
     },
     {
       "id": 430,
-      "word": "finca"
+      "word": "finca",
+      "normalizedWord": "finca"
     },
     {
       "id": 431,
-      "word": "fique"
+      "word": "fique",
+      "normalizedWord": "fique"
     },
     {
       "id": 432,
-      "word": "firma"
+      "word": "firma",
+      "normalizedWord": "firma"
     },
     {
       "id": 433,
-      "word": "fisco"
+      "word": "fisco",
+      "normalizedWord": "fisco"
     },
     {
       "id": 434,
-      "word": "flama"
+      "word": "flama",
+      "normalizedWord": "flama"
     },
     {
       "id": 435,
-      "word": "fisco"
+      "word": "fisco",
+      "normalizedWord": "fisco"
     },
     {
       "id": 436,
-      "word": "flora"
+      "word": "flora",
+      "normalizedWord": "flora"
     },
     {
       "id": 437,
-      "word": "fobia"
+      "word": "fobia",
+      "normalizedWord": "fobia"
     },
     {
       "id": 438,
-      "word": "focal"
+      "word": "focal",
+      "normalizedWord": "focal"
     },
     {
       "id": 439,
-      "word": "folga"
+      "word": "folga",
+      "normalizedWord": "folga"
     },
     {
       "id": 440,
-      "word": "fonte"
+      "word": "fonte",
+      "normalizedWord": "fonte"
     },
     {
       "id": 441,
-      "word": "fraco"
+      "word": "fraco",
+      "normalizedWord": "fraco"
     },
     {
       "id": 442,
-      "word": "frota"
+      "word": "frota",
+      "normalizedWord": "frota"
     },
     {
       "id": 443,
-      "word": "fruto"
+      "word": "fruto",
+      "normalizedWord": "fruto"
     },
     {
       "id": 444,
-      "word": "fugas"
+      "word": "fugas",
+      "normalizedWord": "fugas"
     },
     {
       "id": 445,
-      "word": "furor"
+      "word": "furor",
+      "normalizedWord": "furor"
     },
     {
       "id": 446,
-      "word": "fusão"
+      "word": "fusão",
+      "normalizedWord": "fusao"
     },
     {
       "id": 447,
-      "word": "gamar"
+      "word": "gamar",
+      "normalizedWord": "gamar"
     },
     {
       "id": 448,
-      "word": "ganha"
+      "word": "ganha",
+      "normalizedWord": "ganha"
     },
     {
       "id": 449,
-      "word": "garra"
+      "word": "garra",
+      "normalizedWord": "garra"
     },
     {
       "id": 450,
-      "word": "gasto"
+      "word": "gasto",
+      "normalizedWord": "gasto"
     },
     {
       "id": 451,
-      "word": "geral"
+      "word": "geral",
+      "normalizedWord": "geral"
     },
     {
       "id": 452,
-      "word": "gesto"
+      "word": "gesto",
+      "normalizedWord": "gesto"
     },
     {
       "id": 453,
-      "word": "gíria"
+      "word": "gíria",
+      "normalizedWord": "giria"
     },
     {
       "id": 454,
-      "word": "globo"
+      "word": "globo",
+      "normalizedWord": "globo"
     },
     {
       "id": 455,
-      "word": "glosa"
+      "word": "glosa",
+      "normalizedWord": "glosa"
     },
     {
       "id": 456,
-      "word": "goela"
+      "word": "goela",
+      "normalizedWord": "goela"
     },
     {
       "id": 457,
-      "word": "golpe"
+      "word": "golpe",
+      "normalizedWord": "golpe"
     },
     {
       "id": 458,
-      "word": "gosto"
+      "word": "gosto",
+      "normalizedWord": "gosto"
     },
     {
       "id": 459,
-      "word": "grama"
+      "word": "grama",
+      "normalizedWord": "grama"
     },
     {
       "id": 460,
-      "word": "greve"
+      "word": "greve",
+      "normalizedWord": "greve"
     },
     {
       "id": 461,
-      "word": "grupo"
+      "word": "grupo",
+      "normalizedWord": "grupo"
     },
     {
       "id": 462,
-      "word": "gueto"
+      "word": "gueto",
+      "normalizedWord": "gueto"
     },
     {
       "id": 463,
-      "word": "guias"
+      "word": "guias",
+      "normalizedWord": "guias"
     },
     {
       "id": 464,
-      "word": "haras"
+      "word": "haras",
+      "normalizedWord": "haras"
     },
     {
       "id": 465,
-      "word": "herói"
+      "word": "herói",
+      "normalizedWord": "heroi"
     },
     {
       "id": 466,
-      "word": "hiato"
+      "word": "hiato",
+      "normalizedWord": "hiato"
     },
     {
       "id": 467,
-      "word": "hiena"
+      "word": "hiena",
+      "normalizedWord": "hiena"
     },
     {
       "id": 468,
-      "word": "horda"
+      "word": "horda",
+      "normalizedWord": "horda"
     },
     {
       "id": 469,
-      "word": "ideal"
+      "word": "ideal",
+      "normalizedWord": "ideal"
     },
     {
       "id": 470,
-      "word": "idade"
+      "word": "idade",
+      "normalizedWord": "idade"
     },
     {
       "id": 471,
-      "word": "idoso"
+      "word": "idoso",
+      "normalizedWord": "idoso"
     },
     {
       "id": 472,
-      "word": "igual"
+      "word": "igual",
+      "normalizedWord": "igual"
     },
     {
       "id": 473,
-      "word": "igual"
+      "word": "igual",
+      "normalizedWord": "igual"
     },
     {
       "id": 474,
-      "word": "ímpar"
+      "word": "ímpar",
+      "normalizedWord": "impar"
     },
     {
       "id": 475,
-      "word": "impar"
+      "word": "impar",
+      "normalizedWord": "impar"
     },
     {
       "id": 476,
-      "word": "igual"
+      "word": "igual",
+      "normalizedWord": "igual"
     },
     {
       "id": 477,
-      "word": "inves"
+      "word": "inves",
+      "normalizedWord": "inves"
     },
     {
       "id": 478,
-      "word": "invés"
+      "word": "invés",
+      "normalizedWord": "inves"
     },
     {
       "id": 479,
-      "word": "idade"
+      "word": "idade",
+      "normalizedWord": "idade"
     },
     {
       "id": 480,
-      "word": "inato"
+      "word": "inato",
+      "normalizedWord": "inato"
     },
     {
       "id": 481,
-      "word": "ideal"
+      "word": "ideal",
+      "normalizedWord": "ideal"
     },
     {
       "id": 482,
-      "word": "invés"
+      "word": "invés",
+      "normalizedWord": "inves"
     },
     {
       "id": 483,
-      "word": "impor"
+      "word": "impor",
+      "normalizedWord": "impor"
     },
     {
       "id": 484,
-      "word": "impar"
+      "word": "impar",
+      "normalizedWord": "impar"
     },
     {
       "id": 485,
-      "word": "junta"
+      "word": "junta",
+      "normalizedWord": "junta"
     },
     {
       "id": 486,
-      "word": "junto"
+      "word": "junto",
+      "normalizedWord": "junto"
     },
     {
       "id": 487,
-      "word": "laços"
+      "word": "laços",
+      "normalizedWord": "lacos"
     },
     {
       "id": 488,
-      "word": "lance"
+      "word": "lance",
+      "normalizedWord": "lance"
     },
     {
       "id": 489,
-      "word": "largo"
+      "word": "largo",
+      "normalizedWord": "largo"
     },
     {
       "id": 490,
-      "word": "lasca"
+      "word": "lasca",
+      "normalizedWord": "lasca"
     },
     {
       "id": 491,
-      "word": "latas"
+      "word": "latas",
+      "normalizedWord": "latas"
     },
     {
       "id": 492,
-      "word": "lavar"
+      "word": "lavar",
+      "normalizedWord": "lavar"
     },
     {
       "id": 493,
-      "word": "leite"
+      "word": "leite",
+      "normalizedWord": "leite"
     },
     {
       "id": 494,
-      "word": "lenda"
+      "word": "lenda",
+      "normalizedWord": "lenda"
     },
     {
       "id": 495,
-      "word": "lenta"
+      "word": "lenta",
+      "normalizedWord": "lenta"
     },
     {
       "id": 496,
-      "word": "lesão"
+      "word": "lesão",
+      "normalizedWord": "lesao"
     },
     {
       "id": 497,
-      "word": "letra"
+      "word": "letra",
+      "normalizedWord": "letra"
     },
     {
       "id": 498,
-      "word": "libra"
+      "word": "libra",
+      "normalizedWord": "libra"
     },
     {
       "id": 499,
-      "word": "liceu"
+      "word": "liceu",
+      "normalizedWord": "liceu"
     },
     {
       "id": 500,
-      "word": "limpo"
+      "word": "limpo",
+      "normalizedWord": "limpo"
     },
     {
       "id": 501,
-      "word": "linha"
+      "word": "linha",
+      "normalizedWord": "linha"
     },
     {
       "id": 502,
-      "word": "lista"
+      "word": "lista",
+      "normalizedWord": "lista"
     },
     {
       "id": 503,
-      "word": "logar"
+      "word": "logar",
+      "normalizedWord": "logar"
     },
     {
       "id": 504,
-      "word": "longe"
+      "word": "longe",
+      "normalizedWord": "longe"
     },
     {
       "id": 505,
-      "word": "lucro"
+      "word": "lucro",
+      "normalizedWord": "lucro"
     },
     {
       "id": 506,
-      "word": "luzes"
+      "word": "luzes",
+      "normalizedWord": "luzes"
     },
     {
       "id": 507,
-      "word": "magoa"
+      "word": "magoa",
+      "normalizedWord": "magoa"
     },
     {
       "id": 508,
-      "word": "maior"
+      "word": "maior",
+      "normalizedWord": "maior"
     },
     {
       "id": 509,
-      "word": "malha"
+      "word": "malha",
+      "normalizedWord": "malha"
     },
     {
       "id": 510,
-      "word": "mamão"
+      "word": "mamão",
+      "normalizedWord": "mamao"
     },
     {
       "id": 511,
-      "word": "mansa"
+      "word": "mansa",
+      "normalizedWord": "mansa"
     },
     {
       "id": 512,
-      "word": "marca"
+      "word": "marca",
+      "normalizedWord": "marca"
     },
     {
       "id": 513,
-      "word": "marga"
+      "word": "marga",
+      "normalizedWord": "marga"
     },
     {
       "id": 514,
-      "word": "marom"
+      "word": "marom",
+      "normalizedWord": "marom"
     },
     {
       "id": 515,
-      "word": "massa"
+      "word": "massa",
+      "normalizedWord": "massa"
     },
     {
       "id": 516,
-      "word": "matar"
+      "word": "matar",
+      "normalizedWord": "matar"
     },
     {
       "id": 517,
-      "word": "medir"
+      "word": "medir",
+      "normalizedWord": "medir"
     },
     {
       "id": 518,
-      "word": "meigo"
+      "word": "meigo",
+      "normalizedWord": "meigo"
     },
     {
       "id": 519,
-      "word": "melão"
+      "word": "melão",
+      "normalizedWord": "melao"
     },
     {
       "id": 520,
-      "word": "menta"
+      "word": "menta",
+      "normalizedWord": "menta"
     },
     {
       "id": 521,
-      "word": "meses"
+      "word": "meses",
+      "normalizedWord": "meses"
     },
     {
       "id": 522,
-      "word": "mesma"
+      "word": "mesma",
+      "normalizedWord": "mesma"
     },
     {
       "id": 523,
-      "word": "meta"
+      "word": "meta",
+      "normalizedWord": "meta"
     },
     {
       "id": 524,
-      "word": "metro"
+      "word": "metro",
+      "normalizedWord": "metro"
     },
     {
       "id": 525,
-      "word": "miolo"
+      "word": "miolo",
+      "normalizedWord": "miolo"
     },
     {
       "id": 526,
-      "word": "misto"
+      "word": "misto",
+      "normalizedWord": "misto"
     },
     {
       "id": 527,
-      "word": "modal"
+      "word": "modal",
+      "normalizedWord": "modal"
     },
     {
       "id": 528,
-      "word": "moeda"
+      "word": "moeda",
+      "normalizedWord": "moeda"
     },
     {
       "id": 529,
-      "word": "moita"
+      "word": "moita",
+      "normalizedWord": "moita"
     },
     {
       "id": 530,
-      "word": "molde"
+      "word": "molde",
+      "normalizedWord": "molde"
     },
     {
       "id": 531,
-      "word": "monge"
+      "word": "monge",
+      "normalizedWord": "monge"
     },
     {
       "id": 532,
-      "word": "morbo"
+      "word": "morbo",
+      "normalizedWord": "morbo"
     },
     {
       "id": 533,
-      "word": "mosca"
+      "word": "mosca",
+      "normalizedWord": "mosca"
     },
     {
       "id": 534,
-      "word": "motor"
+      "word": "motor",
+      "normalizedWord": "motor"
     },
     {
       "id": 535,
-      "word": "mudez"
+      "word": "mudez",
+      "normalizedWord": "mudez"
     },
     {
       "id": 536,
-      "word": "mural"
+      "word": "mural",
+      "normalizedWord": "mural"
     },
     {
       "id": 537,
-      "word": "murro"
+      "word": "murro",
+      "normalizedWord": "murro"
     },
     {
       "id": 538,
-      "word": "museu"
+      "word": "museu",
+      "normalizedWord": "museu"
     },
     {
       "id": 539,
-      "word": "naipe"
+      "word": "naipe",
+      "normalizedWord": "naipe"
     },
     {
       "id": 540,
-      "word": "nariz"
+      "word": "nariz",
+      "normalizedWord": "nariz"
     },
     {
       "id": 541,
-      "word": "natal"
+      "word": "natal",
+      "normalizedWord": "natal"
     },
     {
       "id": 542,
-      "word": "navio"
+      "word": "navio",
+      "normalizedWord": "navio"
     },
     {
       "id": 543,
-      "word": "negar"
+      "word": "negar",
+      "normalizedWord": "negar"
     },
     {
       "id": 544,
-      "word": "nerve"
+      "word": "nerve",
+      "normalizedWord": "nerve"
     },
     {
       "id": 545,
-      "word": "neste"
+      "word": "neste",
+      "normalizedWord": "neste"
     },
     {
       "id": 546,
-      "word": "ninho"
+      "word": "ninho",
+      "normalizedWord": "ninho"
     },
     {
       "id": 547,
-      "word": "nível"
+      "word": "nível",
+      "normalizedWord": "nivel"
     },
     {
       "id": 548,
-      "word": "norte"
+      "word": "norte",
+      "normalizedWord": "norte"
     },
     {
       "id": 549,
-      "word": "notas"
+      "word": "notas",
+      "normalizedWord": "notas"
     },
     {
       "id": 550,
-      "word": "noves"
+      "word": "noves",
+      "normalizedWord": "noves"
     },
     {
       "id": 551,
-      "word": "nudez"
+      "word": "nudez",
+      "normalizedWord": "nudez"
     },
     {
       "id": 552,
-      "word": "nuvem"
+      "word": "nuvem",
+      "normalizedWord": "nuvem"
     },
     {
       "id": 553,
-      "word": "obeso"
+      "word": "obeso",
+      "normalizedWord": "obeso"
     },
     {
       "id": 554,
-      "word": "oeste"
+      "word": "oeste",
+      "normalizedWord": "oeste"
     },
     {
       "id": 555,
-      "word": "ofego"
+      "word": "ofego",
+      "normalizedWord": "ofego"
     },
     {
       "id": 556,
-      "word": "pulso"
+      "word": "pulso",
+      "normalizedWord": "pulso"
     },
     {
       "id": 557,
-      "word": "ombro"
+      "word": "ombro",
+      "normalizedWord": "ombro"
     },
     {
       "id": 558,
-      "word": "opção"
+      "word": "opção",
+      "normalizedWord": "opcao"
     },
     {
       "id": 559,
-      "word": "opaco"
+      "word": "opaco",
+      "normalizedWord": "opaco"
     },
     {
       "id": 560,
-      "word": "órgão"
+      "word": "órgão",
+      "normalizedWord": "orgao"
     },
     {
       "id": 561,
-      "word": "orgia"
+      "word": "orgia",
+      "normalizedWord": "orgia"
     },
     {
       "id": 562,
-      "word": "ovino"
+      "word": "ovino",
+      "normalizedWord": "ovino"
     },
     {
       "id": 563,
-      "word": "paço"
+      "word": "paço",
+      "normalizedWord": "paco"
     },
     {
       "id": 564,
-      "word": "padre"
+      "word": "padre",
+      "normalizedWord": "padre"
     },
     {
       "id": 565,
-      "word": "pagão"
+      "word": "pagão",
+      "normalizedWord": "pagao"
     },
     {
       "id": 566,
-      "word": "pavio"
+      "word": "pavio",
+      "normalizedWord": "pavio"
     },
     {
       "id": 567,
-      "word": "padre"
+      "word": "padre",
+      "normalizedWord": "padre"
     },
     {
       "id": 568,
-      "word": "palco"
+      "word": "palco",
+      "normalizedWord": "palco"
     },
     {
       "id": 569,
-      "word": "palma"
+      "word": "palma",
+      "normalizedWord": "palma"
     },
     {
       "id": 570,
-      "word": "palmo"
+      "word": "palmo",
+      "normalizedWord": "palmo"
     },
     {
       "id": 571,
-      "word": "parar"
+      "word": "parar",
+      "normalizedWord": "parar"
     },
     {
       "id": 572,
-      "word": "pardo"
+      "word": "pardo",
+      "normalizedWord": "pardo"
     },
     {
       "id": 573,
-      "word": "parte"
+      "word": "parte",
+      "normalizedWord": "parte"
     },
     {
       "id": 574,
-      "word": "passa"
+      "word": "passa",
+      "normalizedWord": "passa"
     },
     {
       "id": 575,
-      "word": "pasta"
+      "word": "pasta",
+      "normalizedWord": "pasta"
     },
     {
       "id": 576,
-      "word": "patas"
+      "word": "patas",
+      "normalizedWord": "patas"
     },
     {
       "id": 577,
-      "word": "pausa"
+      "word": "pausa",
+      "normalizedWord": "pausa"
     },
     {
       "id": 578,
-      "word": "pedra"
+      "word": "pedra",
+      "normalizedWord": "pedra"
     },
     {
       "id": 579,
-      "word": "pegar"
+      "word": "pegar",
+      "normalizedWord": "pegar"
     },
     {
       "id": 580,
-      "word": "peito"
+      "word": "peito",
+      "normalizedWord": "peito"
     },
     {
       "id": 581,
-      "word": "pêlos"
+      "word": "pêlos",
+      "normalizedWord": "pelos"
     },
     {
       "id": 582,
-      "word": "perda"
+      "word": "perda",
+      "normalizedWord": "perda"
     },
     {
       "id": 583,
-      "word": "perto"
+      "word": "perto",
+      "normalizedWord": "perto"
     },
     {
       "id": 584,
-      "word": "pesso"
+      "word": "pesso",
+      "normalizedWord": "pesso"
     },
     {
       "id": 585,
-      "word": "peças"
+      "word": "peças",
+      "normalizedWord": "pecas"
     },
     {
       "id": 586,
-      "word": "piada"
+      "word": "piada",
+      "normalizedWord": "piada"
     },
     {
       "id": 587,
-      "word": "pilar"
+      "word": "pilar",
+      "normalizedWord": "pilar"
     },
     {
       "id": 588,
-      "word": "pilha"
+      "word": "pilha",
+      "normalizedWord": "pilha"
     },
     {
       "id": 589,
-      "word": "pinta"
+      "word": "pinta",
+      "normalizedWord": "pinta"
     },
     {
       "id": 590,
-      "word": "pires"
+      "word": "pires",
+      "normalizedWord": "pires"
     },
     {
       "id": 591,
-      "word": "placa"
+      "word": "placa",
+      "normalizedWord": "placa"
     },
     {
       "id": 592,
-      "word": "plano"
+      "word": "plano",
+      "normalizedWord": "plano"
     },
     {
       "id": 593,
-      "word": "poços"
+      "word": "poços",
+      "normalizedWord": "pocos"
     },
     {
       "id": 594,
-      "word": "poeta"
+      "word": "poeta",
+      "normalizedWord": "poeta"
     },
     {
       "id": 595,
-      "word": "ponta"
+      "word": "ponta",
+      "normalizedWord": "ponta"
     },
     {
       "id": 596,
-      "word": "ponte"
+      "word": "ponte",
+      "normalizedWord": "ponte"
     },
     {
       "id": 597,
-      "word": "porca"
+      "word": "porca",
+      "normalizedWord": "porca"
     },
     {
       "id": 598,
-      "word": "porta"
+      "word": "porta",
+      "normalizedWord": "porta"
     },
     {
       "id": 599,
-      "word": "posta"
+      "word": "posta",
+      "normalizedWord": "posta"
     },
     {
       "id": 600,
-      "word": "posta"
+      "word": "posta",
+      "normalizedWord": "posta"
     },
     {
       "id": 601,
-      "word": "pouco"
+      "word": "pouco",
+      "normalizedWord": "pouco"
     },
     {
       "id": 602,
-      "word": "prado"
+      "word": "prado",
+      "normalizedWord": "prado"
     },
     {
       "id": 603,
-      "word": "prazo"
+      "word": "prazo",
+      "normalizedWord": "prazo"
     },
     {
       "id": 604,
-      "word": "prece"
+      "word": "prece",
+      "normalizedWord": "prece"
     },
     {
       "id": 605,
-      "word": "preto"
+      "word": "preto",
+      "normalizedWord": "preto"
     },
     {
       "id": 606,
-      "word": "prima"
+      "word": "prima",
+      "normalizedWord": "prima"
     },
     {
       "id": 607,
-      "word": "prova"
+      "word": "prova",
+      "normalizedWord": "prova"
     },
     {
       "id": 608,
-      "word": "pulso"
+      "word": "pulso",
+      "normalizedWord": "pulso"
     },
     {
       "id": 609,
-      "word": "punha"
+      "word": "punha",
+      "normalizedWord": "punha"
     },
     {
       "id": 610,
-      "word": "quadro"
+      "word": "quadro",
+      "normalizedWord": "quadro"
     },
     {
       "id": 611,
-      "word": "quais"
+      "word": "quais",
+      "normalizedWord": "quais"
     },
     {
       "id": 612,
-      "word": "queda"
+      "word": "queda",
+      "normalizedWord": "queda"
     },
     {
       "id": 613,
-      "word": "queda"
+      "word": "queda",
+      "normalizedWord": "queda"
     },
     {
       "id": 614,
-      "word": "quero"
+      "word": "quero",
+      "normalizedWord": "quero"
     },
     {
       "id": 615,
-      "word": "quota"
+      "word": "quota",
+      "normalizedWord": "quota"
     },
     {
       "id": 616,
-      "word": "raças"
+      "word": "raças",
+      "normalizedWord": "racas"
     },
     {
       "id": 617,
-      "word": "radar"
+      "word": "radar",
+      "normalizedWord": "radar"
     },
     {
       "id": 618,
-      "word": "raios"
+      "word": "raios",
+      "normalizedWord": "raios"
     },
     {
       "id": 619,
-      "word": "rampa"
+      "word": "rampa",
+      "normalizedWord": "rampa"
     },
     {
       "id": 620,
-      "word": "rango"
+      "word": "rango",
+      "normalizedWord": "rango"
     },
     {
       "id": 621,
-      "word": "rasto"
+      "word": "rasto",
+      "normalizedWord": "rasto"
     },
     {
       "id": 622,
-      "word": "rasto"
+      "word": "rasto",
+      "normalizedWord": "rasto"
     },
     {
       "id": 623,
-      "word": "reais"
+      "word": "reais",
+      "normalizedWord": "reais"
     },
     {
       "id": 624,
-      "word": "reboa"
+      "word": "reboa",
+      "normalizedWord": "reboa"
     },
     {
       "id": 625,
-      "word": "recuo"
+      "word": "recuo",
+      "normalizedWord": "recuo"
     },
     {
       "id": 626,
-      "word": "redes"
+      "word": "redes",
+      "normalizedWord": "redes"
     },
     {
       "id": 627,
-      "word": "rédea"
+      "word": "rédea",
+      "normalizedWord": "redea"
     },
     {
       "id": 628,
-      "word": "refém"
+      "word": "refém",
+      "normalizedWord": "refem"
     },
     {
       "id": 629,
-      "word": "reino"
+      "word": "reino",
+      "normalizedWord": "reino"
     },
     {
       "id": 630,
-      "word": "relva"
+      "word": "relva",
+      "normalizedWord": "relva"
     },
     {
       "id": 631,
-      "word": "renda"
+      "word": "renda",
+      "normalizedWord": "renda"
     },
     {
       "id": 632,
-      "word": "rente"
+      "word": "rente",
+      "normalizedWord": "rente"
     },
     {
       "id": 633,
-      "word": "resma"
+      "word": "resma",
+      "normalizedWord": "resma"
     },
     {
       "id": 634,
-      "word": "resto"
+      "word": "resto",
+      "normalizedWord": "resto"
     },
     {
       "id": 635,
-      "word": "retém"
+      "word": "retém",
+      "normalizedWord": "retem"
     },
     {
       "id": 636,
-      "word": "risco"
+      "word": "risco",
+      "normalizedWord": "risco"
     },
     {
       "id": 637,
-      "word": "risco"
+      "word": "risco",
+      "normalizedWord": "risco"
     },
     {
       "id": 638,
-      "word": "rocha"
+      "word": "rocha",
+      "normalizedWord": "rocha"
     },
     {
       "id": 639,
-      "word": "rodas"
+      "word": "rodas",
+      "normalizedWord": "rodas"
     },
     {
       "id": 640,
-      "word": "ronda"
+      "word": "ronda",
+      "normalizedWord": "ronda"
     },
     {
       "id": 641,
-      "word": "rosca"
+      "word": "rosca",
+      "normalizedWord": "rosca"
     },
     {
       "id": 642,
-      "word": "rosto"
+      "word": "rosto",
+      "normalizedWord": "rosto"
     },
     {
       "id": 643,
-      "word": "rotas"
+      "word": "rotas",
+      "normalizedWord": "rotas"
     },
     {
       "id": 644,
-      "word": "roubo"
+      "word": "roubo",
+      "normalizedWord": "roubo"
     },
     {
       "id": 645,
-      "word": "ruído"
+      "word": "ruído",
+      "normalizedWord": "ruido"
     },
     {
       "id": 646,
-      "word": "rumos"
+      "word": "rumos",
+      "normalizedWord": "rumos"
     },
     {
       "id": 647,
-      "word": "saída"
+      "word": "saída",
+      "normalizedWord": "saida"
     },
     {
       "id": 648,
-      "word": "salão"
+      "word": "salão",
+      "normalizedWord": "salao"
     },
     {
       "id": 649,
-      "word": "salda"
+      "word": "salda",
+      "normalizedWord": "salda"
     },
     {
       "id": 650,
-      "word": "salto"
+      "word": "salto",
+      "normalizedWord": "salto"
     },
     {
       "id": 651,
-      "word": "salva"
+      "word": "salva",
+      "normalizedWord": "salva"
     },
     {
       "id": 652,
-      "word": "samba"
+      "word": "samba",
+      "normalizedWord": "samba"
     },
     {
       "id": 653,
-      "word": "sanha"
+      "word": "sanha",
+      "normalizedWord": "sanha"
     },
     {
       "id": 654,
-      "word": "santa"
+      "word": "santa",
+      "normalizedWord": "santa"
     },
     {
       "id": 655,
-      "word": "sapos"
+      "word": "sapos",
+      "normalizedWord": "sapos"
     },
     {
       "id": 656,
-      "word": "saque"
+      "word": "saque",
+      "normalizedWord": "saque"
     },
     {
       "id": 657,
-      "word": "sarna"
+      "word": "sarna",
+      "normalizedWord": "sarna"
     },
     {
       "id": 658,
-      "word": "sazão"
+      "word": "sazão",
+      "normalizedWord": "sazao"
     },
     {
       "id": 659,
-      "word": "secas"
+      "word": "secas",
+      "normalizedWord": "secas"
     },
     {
       "id": 660,
-      "word": "sedas"
+      "word": "sedas",
+      "normalizedWord": "sedas"
     },
     {
       "id": 661,
-      "word": "seiva"
+      "word": "seiva",
+      "normalizedWord": "seiva"
     },
     {
       "id": 662,
-      "word": "selva"
+      "word": "selva",
+      "normalizedWord": "selva"
     },
     {
       "id": 663,
-      "word": "semana"
+      "word": "semana",
+      "normalizedWord": "semana"
     },
     {
       "id": 664,
-      "word": "senão"
+      "word": "senão",
+      "normalizedWord": "senao"
     },
     {
       "id": 665,
-      "word": "senao"
+      "word": "senao",
+      "normalizedWord": "senao"
     },
     {
       "id": 666,
-      "word": "serão"
+      "word": "serão",
+      "normalizedWord": "serao"
     },
     {
       "id": 667,
-      "word": "serva"
+      "word": "serva",
+      "normalizedWord": "serva"
     },
     {
       "id": 668,
-      "word": "sexta"
+      "word": "sexta",
+      "normalizedWord": "sexta"
     },
     {
       "id": 669,
-      "word": "sigla"
+      "word": "sigla",
+      "normalizedWord": "sigla"
     },
     {
       "id": 670,
-      "word": "silvo"
+      "word": "silvo",
+      "normalizedWord": "silvo"
     },
     {
       "id": 671,
-      "word": "simão"
+      "word": "simão",
+      "normalizedWord": "simao"
     },
     {
       "id": 672,
-      "word": "sinal"
+      "word": "sinal",
+      "normalizedWord": "sinal"
     },
     {
       "id": 673,
-      "word": "socco"
+      "word": "socco",
+      "normalizedWord": "socco"
     },
     {
       "id": 674,
-      "word": "sócio"
+      "word": "sócio",
+      "normalizedWord": "socio"
     },
     {
       "id": 675,
-      "word": "solda"
+      "word": "solda",
+      "normalizedWord": "solda"
     },
     {
       "id": 676,
-      "word": "solto"
+      "word": "solto",
+      "normalizedWord": "solto"
     },
     {
       "id": 677,
-      "word": "sorte"
+      "word": "sorte",
+      "normalizedWord": "sorte"
     },
     {
       "id": 678,
-      "word": "sousa"
+      "word": "sousa",
+      "normalizedWord": "sousa"
     },
     {
       "id": 679,
-      "word": "suave"
+      "word": "suave",
+      "normalizedWord": "suave"
     },
     {
       "id": 680,
-      "word": "subir"
+      "word": "subir",
+      "normalizedWord": "subir"
     },
     {
       "id": 681,
-      "word": "subir"
+      "word": "subir",
+      "normalizedWord": "subir"
     },
     {
       "id": 682,
-      "word": "suave"
+      "word": "suave",
+      "normalizedWord": "suave"
     },
     {
       "id": 683,
-      "word": "sulco"
+      "word": "sulco",
+      "normalizedWord": "sulco"
     },
     {
       "id": 684,
-      "word": "super"
+      "word": "super",
+      "normalizedWord": "super"
     },
     {
       "id": 685,
-      "word": "surto"
+      "word": "surto",
+      "normalizedWord": "surto"
     },
     {
       "id": 686,
-      "word": "susto"
+      "word": "susto",
+      "normalizedWord": "susto"
     },
     {
       "id": 687,
-      "word": "tabela"
+      "word": "tabela",
+      "normalizedWord": "tabela"
     },
     {
       "id": 688,
-      "word": "tábua"
+      "word": "tábua",
+      "normalizedWord": "tabua"
     },
     {
       "id": 689,
-      "word": "tacha"
+      "word": "tacha",
+      "normalizedWord": "tacha"
     },
     {
       "id": 690,
-      "word": "talão"
+      "word": "talão",
+      "normalizedWord": "talao"
     },
     {
       "id": 691,
-      "word": "talha"
+      "word": "talha",
+      "normalizedWord": "talha"
     },
     {
       "id": 692,
-      "word": "talhe"
+      "word": "talhe",
+      "normalizedWord": "talhe"
     },
     {
       "id": 693,
-      "word": "tarde"
+      "word": "tarde",
+      "normalizedWord": "tarde"
     },
     {
       "id": 694,
-      "word": "tarde"
+      "word": "tarde",
+      "normalizedWord": "tarde"
     },
     {
       "id": 695,
-      "word": "tarja"
+      "word": "tarja",
+      "normalizedWord": "tarja"
     },
     {
       "id": 696,
-      "word": "tecla"
+      "word": "tecla",
+      "normalizedWord": "tecla"
     },
     {
       "id": 697,
-      "word": "telha"
+      "word": "telha",
+      "normalizedWord": "telha"
     },
     {
       "id": 698,
-      "word": "tecla"
+      "word": "tecla",
+      "normalizedWord": "tecla"
     },
     {
       "id": 699,
-      "word": "telha"
+      "word": "telha",
+      "normalizedWord": "telha"
     },
     {
       "id": 700,
-      "word": "tenho"
+      "word": "tenho",
+      "normalizedWord": "tenho"
     },
     {
       "id": 701,
-      "word": "terço"
+      "word": "terço",
+      "normalizedWord": "terco"
     },
     {
       "id": 702,
-      "word": "teste"
+      "word": "teste",
+      "normalizedWord": "teste"
     },
     {
       "id": 703,
-      "word": "texto"
+      "word": "texto",
+      "normalizedWord": "texto"
     },
     {
       "id": 704,
-      "word": "tição"
+      "word": "tição",
+      "normalizedWord": "ticao"
     },
     {
       "id": 705,
-      "word": "tinha"
+      "word": "tinha",
+      "normalizedWord": "tinha"
     },
     {
       "id": 706,
-      "word": "tinta"
+      "word": "tinta",
+      "normalizedWord": "tinta"
     },
     {
       "id": 707,
-      "word": "tirso"
+      "word": "tirso",
+      "normalizedWord": "tirso"
     },
     {
       "id": 708,
-      "word": "toada"
+      "word": "toada",
+      "normalizedWord": "toada"
     },
     {
       "id": 709,
-      "word": "tocha"
+      "word": "tocha",
+      "normalizedWord": "tocha"
     },
     {
       "id": 710,
-      "word": "toldo"
+      "word": "toldo",
+      "normalizedWord": "toldo"
     },
     {
       "id": 711,
-      "word": "tombo"
+      "word": "tombo",
+      "normalizedWord": "tombo"
     },
     {
       "id": 712,
-      "word": "toque"
+      "word": "toque",
+      "normalizedWord": "toque"
     },
     {
       "id": 713,
-      "word": "torço"
+      "word": "torço",
+      "normalizedWord": "torco"
     },
     {
       "id": 714,
-      "word": "tosse"
+      "word": "tosse",
+      "normalizedWord": "tosse"
     },
     {
       "id": 715,
-      "word": "total"
+      "word": "total",
+      "normalizedWord": "total"
     },
     {
       "id": 716,
-      "word": "totem"
+      "word": "totem",
+      "normalizedWord": "totem"
     },
     {
       "id": 717,
-      "word": "traço"
+      "word": "traço",
+      "normalizedWord": "traco"
     },
     {
       "id": 718,
-      "word": "trama"
+      "word": "trama",
+      "normalizedWord": "trama"
     },
     {
       "id": 719,
-      "word": "trama"
+      "word": "trama",
+      "normalizedWord": "trama"
     },
     {
       "id": 720,
-      "word": "trava"
+      "word": "trava",
+      "normalizedWord": "trava"
     },
     {
       "id": 721,
-      "word": "trava"
+      "word": "trava",
+      "normalizedWord": "trava"
     },
     {
       "id": 722,
-      "word": "termo"
+      "word": "termo",
+      "normalizedWord": "termo"
     },
     {
       "id": 723,
-      "word": "trena"
+      "word": "trena",
+      "normalizedWord": "trena"
     },
     {
       "id": 724,
-      "word": "trevo"
+      "word": "trevo",
+      "normalizedWord": "trevo"
     },
     {
       "id": 725,
-      "word": "tribo"
+      "word": "tribo",
+      "normalizedWord": "tribo"
     },
     {
       "id": 726,
-      "word": "troca"
+      "word": "troca",
+      "normalizedWord": "troca"
     },
     {
       "id": 727,
-      "word": "troço"
+      "word": "troço",
+      "normalizedWord": "troco"
     },
     {
       "id": 728,
-      "word": "tropa"
+      "word": "tropa",
+      "normalizedWord": "tropa"
     },
     {
       "id": 729,
-      "word": "trufa"
+      "word": "trufa",
+      "normalizedWord": "trufa"
     },
     {
       "id": 730,
-      "word": "turba"
+      "word": "turba",
+      "normalizedWord": "turba"
     },
     {
       "id": 731,
-      "word": "turno"
+      "word": "turno",
+      "normalizedWord": "turno"
     },
     {
       "id": 732,
-      "word": "única"
+      "word": "única",
+      "normalizedWord": "unica"
     },
     {
       "id": 733,
-      "word": "unido"
+      "word": "unido",
+      "normalizedWord": "unido"
     },
     {
       "id": 734,
-      "word": "urdir"
+      "word": "urdir",
+      "normalizedWord": "urdir"
     },
     {
       "id": 735,
-      "word": "usina"
+      "word": "usina",
+      "normalizedWord": "usina"
     },
     {
       "id": 736,
-      "word": "úteis"
+      "word": "úteis",
+      "normalizedWord": "uteis"
     },
     {
       "id": 737,
-      "word": "útero"
+      "word": "útero",
+      "normalizedWord": "utero"
     },
     {
       "id": 738,
-      "word": "vagar"
+      "word": "vagar",
+      "normalizedWord": "vagar"
     },
     {
       "id": 739,
-      "word": "valsa"
+      "word": "valsa",
+      "normalizedWord": "valsa"
     },
     {
       "id": 740,
-      "word": "vamos"
+      "word": "vamos",
+      "normalizedWord": "vamos"
     },
     {
       "id": 741,
-      "word": "vanda"
+      "word": "vanda",
+      "normalizedWord": "vanda"
     },
     {
       "id": 742,
-      "word": "vante"
+      "word": "vante",
+      "normalizedWord": "vante"
     },
     {
       "id": 743,
-      "word": "vapor"
+      "word": "vapor",
+      "normalizedWord": "vapor"
     },
     {
       "id": 744,
-      "word": "vária"
+      "word": "vária",
+      "normalizedWord": "varia"
     },
     {
       "id": 745,
-      "word": "vedar"
+      "word": "vedar",
+      "normalizedWord": "vedar"
     },
     {
       "id": 746,
-      "word": "veios"
+      "word": "veios",
+      "normalizedWord": "veios"
     },
     {
       "id": 747,
-      "word": "velha"
+      "word": "velha",
+      "normalizedWord": "velha"
     },
     {
       "id": 748,
-      "word": "venda"
+      "word": "venda",
+      "normalizedWord": "venda"
     },
     {
       "id": 749,
-      "word": "vento"
+      "word": "vento",
+      "normalizedWord": "vento"
     },
     {
       "id": 750,
-      "word": "verba"
+      "word": "verba",
+      "normalizedWord": "verba"
     },
     {
       "id": 751,
-      "word": "verde"
+      "word": "verde",
+      "normalizedWord": "verde"
     },
     {
       "id": 752,
-      "word": "verga"
+      "word": "verga",
+      "normalizedWord": "verga"
     },
     {
       "id": 753,
-      "word": "verso"
+      "word": "verso",
+      "normalizedWord": "verso"
     },
     {
       "id": 754,
-      "word": "veste"
+      "word": "veste",
+      "normalizedWord": "veste"
     },
     {
       "id": 755,
-      "word": "vigia"
+      "word": "vigia",
+      "normalizedWord": "vigia"
     },
     {
       "id": 756,
-      "word": "virar"
+      "word": "virar",
+      "normalizedWord": "virar"
     },
     {
       "id": 757,
-      "word": "vista"
+      "word": "vista",
+      "normalizedWord": "vista"
     },
     {
       "id": 758,
-      "word": "viúva"
+      "word": "viúva",
+      "normalizedWord": "viuva"
     },
     {
       "id": 759,
-      "word": "voraz"
+      "word": "voraz",
+      "normalizedWord": "voraz"
     },
     {
       "id": 760,
-      "word": "volta"
+      "word": "volta",
+      "normalizedWord": "volta"
     },
     {
       "id": 761,
-      "word": "vulto"
+      "word": "vulto",
+      "normalizedWord": "vulto"
     },
     {
       "id": 762,
-      "word": "zanga"
+      "word": "zanga",
+      "normalizedWord": "zanga"
     },
     {
       "id": 763,
-      "word": "agora"
+      "word": "agora",
+      "normalizedWord": "agora"
     },
     {
       "id": 764,
-      "word": "algum"
+      "word": "algum",
+      "normalizedWord": "algum"
     },
     {
       "id": 765,
-      "word": "aluno"
+      "word": "aluno",
+      "normalizedWord": "aluno"
     },
     {
       "id": 766,
-      "word": "amado"
+      "word": "amado",
+      "normalizedWord": "amado"
     },
     {
       "id": 767,
-      "word": "amado"
+      "word": "amado",
+      "normalizedWord": "amado"
     },
     {
       "id": 768,
-      "word": "apego"
+      "word": "apego",
+      "normalizedWord": "apego"
     },
     {
       "id": 769,
-      "word": "apito"
+      "word": "apito",
+      "normalizedWord": "apito"
     },
     {
       "id": 770,
-      "word": "artro"
+      "word": "artro",
+      "normalizedWord": "artro"
     },
     {
       "id": 771,
-      "word": "abano"
+      "word": "abano",
+      "normalizedWord": "abano"
     },
     {
       "id": 772,
-      "word": "abata"
+      "word": "abata",
+      "normalizedWord": "abata"
     },
     {
       "id": 773,
-      "word": "abeto"
+      "word": "abeto",
+      "normalizedWord": "abeto"
     },
     {
       "id": 774,
-      "word": "abono"
+      "word": "abono",
+      "normalizedWord": "abono"
     },
     {
       "id": 775,
-      "word": "aceso"
+      "word": "aceso",
+      "normalizedWord": "aceso"
     },
     {
       "id": 776,
-      "word": "acima"
+      "word": "acima",
+      "normalizedWord": "acima"
     },
     {
       "id": 777,
-      "word": "acórd"
+      "word": "acórd",
+      "normalizedWord": "acord"
     },
     {
       "id": 778,
-      "word": "adega"
+      "word": "adega",
+      "normalizedWord": "adega"
     },
     {
       "id": 779,
-      "word": "adiça"
+      "word": "adiça",
+      "normalizedWord": "adica"
     },
     {
       "id": 780,
-      "word": "adubo"
+      "word": "adubo",
+      "normalizedWord": "adubo"
     },
     {
       "id": 781,
-      "word": "aéreo"
+      "word": "aéreo",
+      "normalizedWord": "aereo"
     },
     {
       "id": 782,
-      "word": "afora"
+      "word": "afora",
+      "normalizedWord": "afora"
     },
     {
       "id": 783,
-      "word": "agudo"
+      "word": "agudo",
+      "normalizedWord": "agudo"
     },
     {
       "id": 784,
-      "word": "alias"
+      "word": "alias",
+      "normalizedWord": "alias"
     },
     {
       "id": 785,
-      "word": "alias"
+      "word": "alias",
+      "normalizedWord": "alias"
     },
     {
       "id": 786,
-      "word": "anima"
+      "word": "anima",
+      "normalizedWord": "anima"
     }
   ]
 }
