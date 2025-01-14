@@ -972,7 +972,7 @@
     },
     {
       "id": 195,
-      "word": "gênio",
+      "word": "génio",
       "normalizedWord": "genio"
     },
     {
@@ -4644,6 +4644,366 @@
       "id": 929,
       "word": "papar",
       "normalizedWord": "papar"
+    },
+    {
+      "id": 930,
+      "word": "lobos",
+      "normalizedWord": "lobos"
+    },
+    {
+      "id": 931,
+      "word": "tanta",
+      "normalizedWord": "tanta"
+    },
+    {
+      "id": 932,
+      "word": "tanto",
+      "normalizedWord": "tanto"
+    },
+    {
+      "id": 933,
+      "word": "santo",
+      "normalizedWord": "santo"
+    },
+    {
+      "id": 934,
+      "word": "santa",
+      "normalizedWord": "santa"
+    },
+    {
+      "id": 935,
+      "word": "canil",
+      "normalizedWord": "canil"
+    },
+    {
+      "id": 936,
+      "word": "antas",
+      "normalizedWord": "antas"
+    },
+    {
+      "id": 937,
+      "word": "peste",
+      "normalizedWord": "peste"
+    },
+    {
+      "id": 938,
+      "word": "penas",
+      "normalizedWord": "penas"
+    },
+    {
+      "id": 939,
+      "word": "cenas",
+      "normalizedWord": "cenas"
+    },
+    {
+      "id": 940,
+      "word": "quita",
+      "normalizedWord": "quita"
+    },
+    {
+      "id": 941,
+      "word": "preco",
+      "normalizedWord": "preco"
+    },
+    {
+      "id": 942,
+      "word": "amplo",
+      "normalizedWord": "amplo"
+    },
+    {
+      "id": 943,
+      "word": "ampla",
+      "normalizedWord": "ampla"
+    },
+    {
+      "id": 944,
+      "word": "sabre",
+      "normalizedWord": "sabre"
+    },
+    {
+      "id": 945,
+      "word": "sofre",
+      "normalizedWord": "sofre"
+    },
+    {
+      "id": 946,
+      "word": "deste",
+      "normalizedWord": "deste"
+    },
+    {
+      "id": 947,
+      "word": "sente",
+      "normalizedWord": "sente"
+    },
+    {
+      "id": 948,
+      "word": "santo",
+      "normalizedWord": "santo"
+    },
+    {
+      "id": 949,
+      "word": "tanto",
+      "normalizedWord": "tanto"
+    },
+    {
+      "id": 950,
+      "word": "solta",
+      "normalizedWord": "solta"
+    },
+    {
+      "id": 951,
+      "word": "jogar",
+      "normalizedWord": "jogar"
+    },
+    {
+      "id": 952,
+      "word": "jogas",
+      "normalizedWord": "jogas"
+    },
+    {
+      "id": 953,
+      "word": "podas",
+      "normalizedWord": "podas"
+    },
+    {
+      "id": 954,
+      "word": "podar",
+      "normalizedWord": "podar"
+    },
+    {
+      "id": 955,
+      "word": "limpa",
+      "normalizedWord": "limpa"
+    },
+    {
+      "id": 956,
+      "word": "lunar",
+      "normalizedWord": "lunar"
+    },
+    {
+      "id": 957,
+      "word": "lutar",
+      "normalizedWord": "lutar"
+    },
+    {
+      "id": 958,
+      "word": "lutas",
+      "normalizedWord": "lutas"
+    },
+    {
+      "id": 960,
+      "word": "solta",
+      "normalizedWord": "solta"
+    },
+    {
+      "id": 961,
+      "word": "beras",
+      "normalizedWord": "beras"
+    },
+    {
+      "id": 962,
+      "word": "betos",
+      "normalizedWord": "betos"
+    },
+    {
+      "id": 963,
+      "word": "bocas",
+      "normalizedWord": "bocas"
+    },
+    {
+      "id": 964,
+      "word": "bimbo",
+      "normalizedWord": "bimbo"
+    },
+    {
+      "id": 965,
+      "word": "zelar",
+      "normalizedWord": "zelar"
+    },
+    {
+      "id": 966,
+      "word": "velar",
+      "normalizedWord": "velar"
+    },
+    {
+      "id": 967,
+      "word": "gosta",
+      "normalizedWord": "gosta"
+    },
+    {
+      "id": 968,
+      "word": "limpa",
+      "normalizedWord": "limpa"
+    },
+    {
+      "id": 969,
+      "word": "parda",
+      "normalizedWord": "parda"
+    },
+    {
+      "id": 970,
+      "word": "parca",
+      "normalizedWord": "parca"
+    },
+    {
+      "id": 971,
+      "word": "farca",
+      "normalizedWord": "farça"
+    },
+    {
+      "id": 972,
+      "word": "corta",
+      "normalizedWord": "corta"
+    },
+    {
+      "id": 973,
+      "word": "porte",
+      "normalizedWord": "porte"
+    },
+    {
+      "id": 974,
+      "word": "ferro",
+      "normalizedWord": "ferro"
+    },
+    {
+      "id": 975,
+      "word": "fomes",
+      "normalizedWord": "fomes"
+    },
+    {
+      "id": 976,
+      "word": "tatil",
+      "normalizedWord": "tátil"
+    },
+    {
+      "id": 977,
+      "word": "patos",
+      "normalizedWord": "patos"
+    },
+    {
+      "id": 978,
+      "word": "catos",
+      "normalizedWord": "catos"
+    },
+    {
+      "id": 979,
+      "word": "primo",
+      "normalizedWord": "primo"
+    },
+    {
+      "id": 980,
+      "word": "rimas",
+      "normalizedWord": "rimas"
+    },
+    {
+      "id": 981,
+      "word": "golos",
+      "normalizedWord": "golos"
+    },
+    {
+      "id": 982,
+      "word": "pista",
+      "normalizedWord": "pista"
+    },
+    {
+      "id": 983,
+      "word": "crina",
+      "normalizedWord": "crina"
+    },
+    {
+      "id": 984,
+      "word": "torta",
+      "normalizedWord": "torta"
+    },
+    {
+      "id": 985,
+      "word": "torto",
+      "normalizedWord": "torto"
+    },
+    {
+      "id": 986,
+      "word": "pinho",
+      "normalizedWord": "pinho"
+    },
+    {
+      "id": 987,
+      "word": "pinto",
+      "normalizedWord": "pinto"
+    },
+    {
+      "id": 988,
+      "word": "tramo",
+      "normalizedWord": "tramo"
+    },
+    {
+      "id": 989,
+      "word": "camas",
+      "normalizedWord": "camas"
+    },
+    {
+      "id": 990,
+      "word": "bispo",
+      "normalizedWord": "bispo"
+    },
+    {
+      "id": 991,
+      "word": "vasto",
+      "normalizedWord": "vasto"
+    },
+    {
+      "id": 992,
+      "word": "vasta",
+      "normalizedWord": "vasta"
+    },
+    {
+      "id": 993,
+      "word": "nunca",
+      "normalizedWord": "nunca"
+    },
+    {
+      "id": 994,
+      "word": "fumar",
+      "normalizedWord": "fumar"
+    },
+    {
+      "id": 995,
+      "word": "fumas",
+      "normalizedWord": "fumas"
+    },
+    {
+      "id": 996,
+      "word": "fumos",
+      "normalizedWord": "fumos"
+    },
+    {
+      "id": 997,
+      "word": "fogos",
+      "normalizedWord": "fogos"
+    },
+    {
+      "id": 998,
+      "word": "funil",
+      "normalizedWord": "funil"
+    },
+    {
+      "id": 999,
+      "word": "favas",
+      "normalizedWord": "favas"
+    },
+    {
+      "id": 1000,
+      "word": "afina",
+      "normalizedWord": "afina"
+    },
+    {
+      "id": 1001,
+      "word": "vivos",
+      "normalizedWord": "vivos"
+    },
+    {
+      "id": 1001,
+      "word": "vivas",
+      "normalizedWord": "vivas"
     }
   ]
 }
